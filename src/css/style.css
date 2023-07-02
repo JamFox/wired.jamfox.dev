@@ -7,3 +7,11 @@
     font-family: Cthulhumbus;
     src: url('/fonts/JMH-Cthulhumbus-Arcade.otf');
 }
+
+body {
+    font-family: Cthulhumbus;
+    font-size: 1.5rem;
+    color: #b18888;
+    margin: 0;
+    padding: 0;
+}
