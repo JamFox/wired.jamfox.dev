@@ -5,3 +5,6 @@ build:
 
 test:
 	npx @11ty/eleventy --serve
+
+clean:
+	rm -rf _site

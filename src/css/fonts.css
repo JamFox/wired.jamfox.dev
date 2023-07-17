@@ -8,10 +8,12 @@
     src: url('/fonts/JMH-Cthulhumbus-Arcade.otf');
 }
 
-body {
-    font-family: Cthulhumbus;
-    font-size: 1.5rem;
-    color: #b18888;
-    margin: 0;
-    padding: 0;
+@font-face {
+    font-family: RubikMonoOne;
+    src: url('/fonts/RubikMonoOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: DelaGothicOne;
+    src: url('/fonts/DelaGothicOne-Regular.ttf');
 }
