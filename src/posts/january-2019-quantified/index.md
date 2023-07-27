@@ -185,17 +185,3 @@ I didn't play much but Factorio. One of the most addicting games available, but 
 ### Productive
 
 I spent a puny 3% or 22 hours being productive. Most of my personal projects were finished in December and I didn't care to find myself anything new during the winter break and opted to just relax and read more books and watch more movies. Then I started this blog as a new project which has also zapped a considerable amount from my time. No excuses though - I should dedicate more of my time to being productive! I have a few goals for February: Start with learning Linux, Arduinos and the Raspberry Pi, possibly even Python if the latter goals require it; write more in this blog; start drawing more again and learn digital art since I haven't used my XP-Pen for a while.
-
-### Finance
-
-Now this was surprising - I'm quite frugal! Or was on this January at the very least. Maybe I shouldn't be surprised, because like I said - I don't really like going out in the winter? The computer gear accounted for most of my expenses, but that was one of those rare purchases that happens maybe once a year. This time it was an Arduino kit, a Raspberry Pi kit and some extra adapters, USB drives and a card reader. Reason for those purchases is to try out some things I've always had an interest in and to try out some practical computer skills before I finish 12th grade and finalize my decision to study computer science at the uni.
-
-I also didn't earn much. I'm a student living under the roof of my supportive parents and am still comfortably living off my one-time VRChat avatar business when the game had a surge of new players.
-
-![](/images/finans.png)
-
-> _**Total income**_
-
-![](/images/finansss-1.png)
-
-> _**Total expenses**_
