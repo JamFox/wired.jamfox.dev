@@ -1,1 +1,11 @@
 /* Post specific styles */
+img {
+    width: 75%;
+    height: auto;
+}
+
+@media (max-width: 800px) {
+    img {
+        width: 100%;
+    }
+}
