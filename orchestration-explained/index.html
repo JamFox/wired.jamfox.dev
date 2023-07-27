@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/css/00-global.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<title>Orchestration Fundamentals Explained Simply</title>
+	
+<meta name="description" content="">
+<link rel="stylesheet" href="/css/post.css">
+
+</head>
+
+<body>
+	<div class="container">
+		<div class="header">
+			<h1 class="floating">JamFox</h1>
+			<div class="headerlinks">
+				<p><a href="/">home</a> &nbsp; <a href="/setup">uses</a> <!--&nbsp; <a href="/blog">blog</a>--> &nbsp; <a
+						href="https://docs.jamfox.dev/">docs</a></p>
+			</div>
+		</div>
+	</div>
+	<main>
+		<div class="container">
+			
+<h1>Orchestration Fundamentals Explained Simply</h1>
+
+			<p>At some point, when I first started my path down the journey of DevOps and managing IT infrastructure at enterprise level, my team was tasked with deploying a containerized web app for storing documents. Catch being that no-one on the team knew anything about running containerized applications. But no problem!</p>
+<blockquote>
+<p>Working in IT is all about being able to new problems, so we'll learn on the job!</p>
+</blockquote>
+<p>Nothing wrong with this approach if given sufficient time, but when you're told to deploy in a month? That's when you dive right in and find yourself in the middle of all kinds of magical words like: microservices, service meshes, service-level fault isolation, interoperability, container orchestration, horizontal scalability, service observability and discovery etc. So in the end you're sitting there with fire and explosions going off all around saying &quot;we're learning on the job, this is fine!&quot;</p>
+<p>My goal here is to provide not a very technical, easy to understand overview of what it means to go from a standard monolithic all-batteries-included app running on bare metal host to an orchestrated containerized app following the microservice architecture. This is the overview I wish I got before I jumped into the fire described earlier.</p>
+<h2>Meet The Monolith</h2>
+<p>Let's set the stage: say that me and you work for some company. The company's motivation is to make more money, that means reducing operating costs which in itself means making the tasks of the employees easier and more efficient. That is to say that <strong>our goal is to make our jobs as easy and efficient as possible</strong>. At first, this company was still using faxes and all the accounting was done on paper. But we built this wonderful web app for storing the companies documents (called Document Webapp) so the company can stop renting a whole warehouse for storing and handling physical stacks of paper. For the Document Webapp there was no other product that fit our company so we coded it ourselves in your favorite programming language. We ended up with a single executable that we test on the Test Server and run on the Production Server. Both servers are identical and run the same OS (let's call it the OldOS 1), same everything to ensure that there are no surprises, because when the intern tried to run it on his laptop with a different OS he got a lot of weird errors.</p>
+<p>By building this Document Webapp we reduced the costs by making the tasks of the employees easier and more efficient. But now instead of all the people at the document warehouse, we are managing the Document Webapp. We don't have to do as much work as all the people handling the paper did combined, but it's a lot of work to manage the Document Webapp so we would like to make OUR jobs easier and more efficient, so let's see what we could do.</p>
+<p>Let's look at the Document Webapp in detail. Because it's a web app it is using our companies load balancers (also acting as reverse proxies) so users can access it from the internet, fortunately load balancers are separate from our app and are taken care for us. But we coded our own:</p>
+<ul>
+<li>Web front-end</li>
+<li>Document Database (to store our documents)</li>
+<li>Document Search (so clients can search for documents without scrolling through a list of them)</li>
+<li>Document Caching (so the documents are delivered efficiently to clients)</li>
+<li>Authentication System (to provide logins and private documents for clients)</li>
+<li>Web back-end (to tie all the previous systems together)</li>
+</ul>
+<p>And <strong>the components of the app run inside that one executable</strong>!</p>
+<p>When we want to run a new version the the Document Webapp here's our deployment process at this point:</p>
+<ol>
+<li>SSH into the Test server</li>
+<li>Stop the Document Webapp</li>
+<li>Clone and build the latest Document Webapp</li>
+<li>Update the system packages if needed</li>
+<li>Start the new Document Webapp</li>
+<li>Repeat the same in the Production Server</li>
+</ol>
+<p>Quite simple! But we can automate that, so we run the same steps with Ansible. Even better! Now our process looks like this:</p>
+<ol>
+<li>Update Ansible repository with the version of the Document Webapp and version of the system dependencies we want to deploy</li>
+<li>Ansible runs the following automatically on the Test server:
+<ol>
+<li>Stop the Document Webapp</li>
+<li>Clone and build the latest Document Webapp</li>
+<li>Update the system packages if needed</li>
+<li>Start the new Document Webapp</li>
+</ol>
+</li>
+<li>Repeat the same for Production Server</li>
+</ol>
+<p>By doing all this, manually or with Ansible, <strong>the application is tied to the host that we run it on <em>and</em> the hosts OS</strong>. That is to say, if the OS or the hardware of the host has issues then our app will also be affected. Transferring the app to a new host means adding a new host in Ansible with the same OS and letting Ansible configure it with our dependencies and the Document Webapp.</p>
+<h2>Meet The Container</h2>
+<p>Then one day, it turns out we need to upgrade all our servers' OS from OldOS 1 to OldOS 2 because the previous version is now no longer supported and does no longer get security patches. Remember when our intern tried to run the Document Webapp on his laptop with a different OS got a lot of weird errors? Well now we are facing the same problem, because the application is tied to the OS. But can we somehow isolate Document Webapp so that it is able to run on any machine? The answer is application containers!</p>
+<p>Containerization is having the operating system take features and properties normally considered global, and reduce them to private versions or limited access/resources as a means of restricting or isolating access to those resources. Note that it's not the same as running another virtual machine (VM). <strong>VMs isolate on the kernel level, containers isolate on the OS level</strong>. Furthermore, there is a difference between system containers and application containers. System containers take the place of VMs when there is no need to isolate on the kernel level, because they have less overhead because of not having to simulate the kernel. System containers are usually used as you would use a VM. However <strong>application containers are designed to only run a single process</strong> and only contain bare minimum of the OS dependencies that the said singular process needs. Application containers are designed to be treated as you would treat the executable without containerization. You're not supposed to remote into the container, run commands and install stuff in the container, they're not supposed to have their own IP address etc. If you need to modify the container, you stop the old one and launch a new one with the modified contents. To put it simply <strong>application containers are emphemeral</strong> and <strong>system containers (like VMs) are long-lasting</strong>.</p>
+<p>But we are storing documents on our app, how can it be ephemeral? <strong>We certainly do not want the data to be ephemeral</strong>, otherwise on each restart of the container we would lose our data! This is key point to understand: <strong>application containers need to be provided with a separate persistent storage that is not part of the container itself</strong>. Simplest solution is to mount a directory from the host into the container. So on each restart the container uses the same data directory and our data is long-lasting while our container is ephemeral!</p>
+<p>Going forward if I mention containers, I mean application containers not system containers.</p>
+<p>So we create our container image for our Document Webapp. After creating the container image and launching a container with that image we will have it running on the servers with OldOS 2 inside a container that runs the Document Webapp executable with only the bare minimum dependencies from OldOS 1. In fact if the intern tries to run the Document Webapp now, then using the container they will not have any problems with their OS! <strong>With the container we have isolated the app from the OS of the host we are running it on</strong>.</p>
+<p>Now our process looks like this:</p>
+<ol>
+<li>Update Ansible repository with the version of the Document Webapp container image we want to deploy</li>
+<li>Ansible runs the following automatically on the Test server:
+<ol>
+<li>Stop the old Document Webapp container</li>
+<li>Start the new Document Webapp container</li>
+</ol>
+</li>
+<li>Repeat the same for Production Server</li>
+</ol>
+<p>At this point <strong>the containerized app is still dependent on the host we are running it on</strong> though! If there are issues on the hosts OS then our app will not be affected (unless it's serious), but if the hardware of the host has issues then our app will still be affected.</p>
+<h2>Meet The Orchestrator</h2>
+<p>Then at some point the Test server dies and it becomes the center of attention because what if this were to happen to Production? Management and we want to make sure that this absolutely does not happen to the Production Server. We could run a couple more Production servers for high availability and have a load balancer in front of them. This is certainly a good solution, but adds management overhead since now we have to manage multiple servers. Since we are already using containers, let's use an orchestrator!</p>
+<p>With an orchestrator we can set up a number of hosts in a cluster and then specify how many instances should be running and how these instances should be running and the orchestrator will take care of everything. However this comes with some new challenges as now where the Document Webapp is running becomes dynamic. The orchestrator will decide on it's own where it wants to run it and where it is the most efficient.</p>
+<p>Where the services are running, which port they are running on will all be dynamic with an orchestrator. The dynamic nature of orchestrating means we have to adapt our thinking and infrastructure to handle everything being dynamic. This means figuring out how to:</p>
+<ul>
+<li>load balance and direct traffic to the services (often called ingress): how do we direct traffic to instance(s) of our service if we don't know the host it is running on?</li>
+<li>handle logging and aggregating logs for easier debugging: how do we know which instance had a problem, how do we know it was the orchestrator, where are all the logs located?</li>
+<li>manage TLS certificates: it is not possible or good practice to spam certificate requests for all nodes, how do we distribute them?</li>
+<li>cluster internal communication: if services are running on arbitrary ports, how can they communicate with each other?</li>
+<li>handle stateful storage: if the service can run on any host, how do we ensure it will always have the same data?</li>
+</ul>
+<p>These are non-trivial obstacles, but once solved the Document Webapp <strong>service(s) can be separated from the host(s) it is running on with an orchestrator</strong>. It will no longer matter where it is, the orchestrator will make sure the defined number of instances will be up if enough nodes in the cluster are alive. If one dies with a service running on it, the orchestrator will deploy a new instance on another host et voila, it's as easy as that!</p>
+<p>Now our process looks like this:</p>
+<ol>
+<li>Define to the orchestrator how Document Webapp should be run and how many instances should be deployed</li>
+<li>Orchestrator will compare current state to defined state and do the following:
+<ol>
+<li>Check version and do a rolling update if current is outdated</li>
+<li>Check how many instances are running, stops or starts new instances to match defined state</li>
+<li>Takes care of load balancing, storage, certs</li>
+<li>Reports health of defined services</li>
+</ol>
+</li>
+</ol>
+<p>The orchestrator will get us as close to true Infrastructure as Code as today's technology allows. At this point <strong>the containerized app is no longer dependent on any particular host(s) or any OS.</strong></p>
+<h2>Bonus: Meet The Microservices</h2>
+<p>With orchestration as the last step we have surpassed the most critical and hardest parts of deploying the Document Webapp. However if we wish to give it a final cherry on top we should move to the modern microservices architecture.</p>
+<p>Before we looked how our app consisted of multiple components that are all part of one executable:</p>
+<ul>
+<li>Web front-end</li>
+<li>Document Database (to store our documents)</li>
+<li>Document Search (so clients can search for documents without scrolling through a list of them)</li>
+<li>Document Caching (so the documents are delivered efficiently to clients)</li>
+<li>Authentication System (to provide logins and private documents for clients)</li>
+<li>Web back-end (to tie all the previous systems together)</li>
+</ul>
+<p>If we update one of these components, we need to redeploy the whole app. To minimize downtime we should break these components apart into separate services. That way we can update and manage each of them separately. This has the added benefit of always being able to easily switch out the components provided that our application's interfaces were coded to support this instead of being stuck with the built-in solution for eternity.</p>
+<p>Breaking up applications comes with the drawback of having more complicated architecture. Designing components to be pluggable and dynamic will inherently be more complex and also complicates debugging, but it will provide the value of being very flexible as technologies change and evolve.</p>
+<h2>Recap</h2>
+<p>To put it very short:</p>
+<ul>
+<li><strong>Containers</strong> separate service(s) from the host OS</li>
+<li><strong>Orchestrators</strong> separate service(s) from hosts themselves</li>
+<li><strong>Microservice architecture</strong> allows service's components to be more flexible in terms of managing and deployment</li>
+</ul>
+<h2>Practical Examples</h2>
+<ul>
+<li><a href="https://youtu.be/gY7JSjWDFJc">Enabling Microservices at Orbitz</a></li>
+<li><a href="https://www.redhat.com/en/topics/cloud-native-apps/what-is-containerization">RedHat: What is containerization?</a></li>
+<li>Typical orchestrated app's architecture: <a href="https://inveniordm.docs.cern.ch/develop/architecture/infrastructure/">InvenioRDM Infrastructure Architecture</a></li>
+<li>Pros and cons of monoliths: <a href="https://medium.com/swlh/scaling-monolithic-applications-3c69193f942a">Scaling Monolithic Applications</a></li>
+</ul>
+
+		</div>
+	</main>
+	<div class="container">
+		<div class="footer">
+			<a href="/static/cv.pdf">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+					class="bi bi-filetype-pdf" viewBox="0 0 16 16">
+					<path fill-rule="evenodd"
+						d="M14 4.5V14a2 2 0 0 1-2 2h-1v-1h1a1 1 0 0 0 1-1V4.5h-2A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v9H2V2a2 2 0 0 1 2-2h5.5L14 4.5ZM1.6 11.85H0v3.999h.791v-1.342h.803c.287 0 .531-.057.732-.173.203-.117.358-.275.463-.474a1.42 1.42 0 0 0 .161-.677c0-.25-.053-.476-.158-.677a1.176 1.176 0 0 0-.46-.477c-.2-.12-.443-.179-.732-.179Zm.545 1.333a.795.795 0 0 1-.085.38.574.574 0 0 1-.238.241.794.794 0 0 1-.375.082H.788V12.48h.66c.218 0 .389.06.512.181.123.122.185.296.185.522Zm1.217-1.333v3.999h1.46c.401 0 .734-.08.998-.237a1.45 1.45 0 0 0 .595-.689c.13-.3.196-.662.196-1.084 0-.42-.065-.778-.196-1.075a1.426 1.426 0 0 0-.589-.68c-.264-.156-.599-.234-1.005-.234H3.362Zm.791.645h.563c.248 0 .45.05.609.152a.89.89 0 0 1 .354.454c.079.201.118.452.118.753a2.3 2.3 0 0 1-.068.592 1.14 1.14 0 0 1-.196.422.8.8 0 0 1-.334.252 1.298 1.298 0 0 1-.483.082h-.563v-2.707Zm3.743 1.763v1.591h-.79V11.85h2.548v.653H7.896v1.117h1.606v.638H7.896Z" />
+				</svg>CV.pdf
+			</a>
+			&nbsp;
+			<a href="https://www.linkedin.com/in/katurv/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+					class="bi bi-linkedin" viewBox="0 0 16 16">
+					<path
+						d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+				</svg>LinkedIn
+			</a>
+			&nbsp;
+			<a href="https://github.com/JamFox">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-git"
+					viewBox="0 0 16 16">
+					<path
+						d="M15.698 7.287 8.712.302a1.03 1.03 0 0 0-1.457 0l-1.45 1.45 1.84 1.84a1.223 1.223 0 0 1 1.55 1.56l1.773 1.774a1.224 1.224 0 0 1 1.267 2.025 1.226 1.226 0 0 1-2.002-1.334L8.58 5.963v4.353a1.226 1.226 0 1 1-1.008-.036V5.887a1.226 1.226 0 0 1-.666-1.608L5.093 2.465l-4.79 4.79a1.03 1.03 0 0 0 0 1.457l6.986 6.986a1.03 1.03 0 0 0 1.457 0l6.953-6.953a1.031 1.031 0 0 0 0-1.457" />
+				</svg>GitHub
+			</a>
+			&nbsp;
+			<a href="https://www.instagram.com/karlturvas/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+					class="bi bi-instagram" viewBox="0 0 16 16">
+					<path
+						d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+				</svg>Instagram
+			</a>
+		</div>
+	</div>
+</body>
+
+</html>

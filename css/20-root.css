@@ -1,327 +1,13 @@
 @font-face {
-    font-family: Bourgeois-Bold;
-    src: url('/fonts/Bourgeois-Bold.ttf');
+    font-family: technotot;
+    src: url('/fonts/Technotot-0yKz.ttf');
 }
 
 @font-face {
-    font-family: Bourgeois-BoldCondensedItalic;
-    src: url('/fonts/Bourgeois-BoldCondensedItalic.ttf');
+    font-family: inter;
+    src: url('/fonts/Inter.ttf');
 }
 
-@font-face {
-    font-family: Bourgeois-BoldItalic;
-    src: url('/fonts/Bourgeois-BoldItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-Heavy;
-    src: url('/fonts/Bourgeois-Heavy.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-HeavyCondensed;
-    src: url('/fonts/Bourgeois-HeavyCondensed.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-HeavyCondensedItalic;
-    src: url('/fonts/Bourgeois-HeavyCondensedItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-HeavyItalic;
-    src: url('/fonts/Bourgeois-HeavyItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-Light;
-    src: url('/fonts/Bourgeois-Light.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-LightCondensed;
-    src: url('/fonts/Bourgeois-LightCondensed.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-LightCondensedItalic;
-    src: url('/fonts/Bourgeois-LightCondensedItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-LightItalic;
-    src: url('/fonts/Bourgeois-LightItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-Medium;
-    src: url('/fonts/Bourgeois-Medium.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-MediumCondensedItalic;
-    src: url('/fonts/Bourgeois-MediumCondensedItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-MediumItalic;
-    src: url('/fonts/Bourgeois-MediumItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-Thin;
-    src: url('/fonts/Bourgeois-Thin.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-ThinCondensed;
-    src: url('/fonts/Bourgeois-ThinCondensed.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-ThinItalic;
-    src: url('/fonts/Bourgeois-ThinItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-UltraBold;
-    src: url('/fonts/Bourgeois-UltraBold.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-UltraBoldCondensed;
-    src: url('/fonts/Bourgeois-UltraBoldCondensed.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-UltraBoldCondensedItalic;
-    src: url('/fonts/Bourgeois-UltraBoldCondensedItalic.ttf');
-}
-
-@font-face {
-    font-family: Bourgeois-UltraBoldItalic;
-    src: url('/fonts/Bourgeois-UltraBoldItalic.ttf');
-}
-
-@font-face {
-    font-family: DelaGothicOne-Regular;
-    src: url('/fonts/DelaGothicOne-Regular.ttf');
-}
-
-@font-face {
-    font-family: GasoekOne-Regular;
-    src: url('/fonts/GasoekOne-Regular.ttf');
-}
-
-@font-face {
-    font-family: Genos-Black;
-    src: url('/fonts/Genos-Black.ttf');
-}
-
-@font-face {
-    font-family: Genos-BlackItalic;
-    src: url('/fonts/Genos-BlackItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Bold;
-    src: url('/fonts/Genos-Bold.ttf');
-}
-
-@font-face {
-    font-family: Genos-BoldItalic;
-    src: url('/fonts/Genos-BoldItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-ExtraBold;
-    src: url('/fonts/Genos-ExtraBold.ttf');
-}
-
-@font-face {
-    font-family: Genos-ExtraBoldItalic;
-    src: url('/fonts/Genos-ExtraBoldItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-ExtraLight;
-    src: url('/fonts/Genos-ExtraLight.ttf');
-}
-
-@font-face {
-    font-family: Genos-ExtraLightItalic;
-    src: url('/fonts/Genos-ExtraLightItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Italic;
-    src: url('/fonts/Genos-Italic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Light;
-    src: url('/fonts/Genos-Light.ttf');
-}
-
-@font-face {
-    font-family: Genos-LightItalic;
-    src: url('/fonts/Genos-LightItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Medium;
-    src: url('/fonts/Genos-Medium.ttf');
-}
-
-@font-face {
-    font-family: Genos-MediumItalic;
-    src: url('/fonts/Genos-MediumItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Regular;
-    src: url('/fonts/Genos-Regular.ttf');
-}
-
-@font-face {
-    font-family: Genos-SemiBold;
-    src: url('/fonts/Genos-SemiBold.ttf');
-}
-
-@font-face {
-    font-family: Genos-SemiBoldItalic;
-    src: url('/fonts/Genos-SemiBoldItalic.ttf');
-}
-
-@font-face {
-    font-family: Genos-Thin;
-    src: url('/fonts/Genos-Thin.ttf');
-}
-
-@font-face {
-    font-family: Genos-ThinItalic;
-    src: url('/fonts/Genos-ThinItalic.ttf');
-}
-
-@font-face {
-    font-family: JMH-Cthulhumbus-Arcade-UG;
-    src: url('/fonts/JMH-Cthulhumbus-Arcade-UG.ttf');
-}
-
-@font-face {
-    font-family: JMH-Cthulhumbus-Arcade;
-    src: url('/fonts/JMH-Cthulhumbus-Arcade.otf');
-}
-
-@font-face {
-    font-family: LibreBarcode128Text-Regular;
-    src: url('/fonts/LibreBarcode128Text-Regular.ttf');
-}
-
-@font-face {
-    font-family: LibreBarcode39Text-Regular;
-    src: url('/fonts/LibreBarcode39Text-Regular.ttf');
-}
-
-@font-face {
-    font-family: Marske;
-    src: url('/fonts/Marske.otf');
-}
-
-@font-face {
-    font-family: Marske;
-    src: url('/fonts/Marske.ttf');
-}
-
-@font-face {
-    font-family: Michroma-Regular;
-    src: url('/fonts/Michroma-Regular.ttf');
-}
-
-@font-face {
-    font-family: NTR-Regular;
-    src: url('/fonts/NTR-Regular.ttf');
-}
-
-@font-face {
-    font-family: RFNGU;
-    src: url('/fonts/RFNGU.TTF');
-}
-
-@font-face {
-    font-family: Rajdhani-Bold;
-    src: url('/fonts/Rajdhani-Bold.ttf');
-}
-
-@font-face {
-    font-family: Rajdhani-Light;
-    src: url('/fonts/Rajdhani-Light.ttf');
-}
-
-@font-face {
-    font-family: Rajdhani-Medium;
-    src: url('/fonts/Rajdhani-Medium.ttf');
-}
-
-@font-face {
-    font-family: Rajdhani-Regular;
-    src: url('/fonts/Rajdhani-Regular.ttf');
-}
-
-@font-face {
-    font-family: Rajdhani-SemiBold;
-    src: url('/fonts/Rajdhani-SemiBold.ttf');
-}
-
-@font-face {
-    font-family: RubikMonoOne-Regular;
-    src: url('/fonts/RubikMonoOne-Regular.ttf');
-}
-
-@font-face {
-    font-family: Silkscreen-Bold;
-    src: url('/fonts/Silkscreen-Bold.ttf');
-}
-
-@font-face {
-    font-family: Silkscreen-Regular;
-    src: url('/fonts/Silkscreen-Regular.ttf');
-}
-
-@font-face {
-    font-family: SpaceMono-Bold;
-    src: url('/fonts/SpaceMono-Bold.ttf');
-}
-
-@font-face {
-    font-family: SpaceMono-BoldItalic;
-    src: url('/fonts/SpaceMono-BoldItalic.ttf');
-}
-
-@font-face {
-    font-family: SpaceMono-Italic;
-    src: url('/fonts/SpaceMono-Italic.ttf');
-}
-
-@font-face {
-    font-family: SpaceMono-Regular;
-    src: url('/fonts/SpaceMono-Regular.ttf');
-}
-
-@font-face {
-    font-family: Syne-Regular;
-    src: url('/fonts/Syne-Regular.ttf');
-}
-
-@font-face {
-    font-family: TenorSans-Regular;
-    src: url('/fonts/TenorSans-Regular.ttf');
-}
-
-@font-face {
-    font-family: VT323-Regular;
-    src: url('/fonts/VT323-Regular.ttf');
-}
 
 :root {
     --sides-padding-desktop: 3%;
@@ -343,15 +29,22 @@
     --rose-quartz: hsla(321, 19%, 67%, 1);
 
     --base-font-size: 1.8em;
-    --main-font: 'Rajdhani-Bold', sans-serif;
-    --secondary-font: 'Syne-Regular', monospace;
-
+    /* Good pairs: 
+    JMH-Cthulhumbus-Arcade & VT323-Regular
+    Italipixel & 9801
+    technotot & inter
+    */
+    --logo-font: 'technotot', sans-serif;
+    --main-font: 'inter', sans-serif;
+    --secondary-font: 'inter', sans-serif;
+    --tertiary-font: monospace;
+    
     --main-color: var(--eerie-black);
     --main-accent-color: var(--davys-gray);
-    --secondary-color: var(--vanilla);
+    --secondary-color: var(--azure-web);
     --secondary-accent-color: var(--parchment);
-    --tertiary-color: var(--light-coral);
-    --tertiary-accent-color: var(--salmon-pink);
+    --tertiary-color: var(--parchment);
+    --tertiary-accent-color: var(--vanilla);
 }
 
 /* Table of contents
@@ -360,7 +53,6 @@
 - Base Styles
 - Typography
 - Links
-- Buttons
 - Forms
 - Lists
 - Code
@@ -573,7 +265,7 @@ body {
     /* currently ems cause chrome bug misinterpreting rems on body element */
     line-height: 1.6;
     font-weight: 400;
-    font-family: var(--secondary-font);
+    font-family: var(--primary-font);
     background: var(--main-color);
     color: var(--secondary-color);
 }
@@ -589,8 +281,8 @@ h5,
 h6 {
     margin-top: 0;
     margin-bottom: 2rem;
-    font-family: var(--main-font);
-    font-weight: 300;
+    font-family: var(--secondary-font);
+    font-weight: 600;
 }
 
 h1 {
@@ -665,79 +357,12 @@ p {
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
     color: var(--tertiary-color);
+    text-decoration: none;
 }
 
 a:hover {
     color: var(--tertiary-accent-color);
 }
-
-
-/* Buttons
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button,
-button,
-input[type="submit"],
-input[type="reset"],
-input[type="button"] {
-    display: inline-block;
-    height: 38px;
-    padding: 0 30px;
-    color: #555;
-    text-align: center;
-    font-size: 11px;
-    font-weight: 600;
-    line-height: 38px;
-    letter-spacing: .1rem;
-    text-transform: uppercase;
-    text-decoration: none;
-    white-space: nowrap;
-    background-color: transparent;
-    border-radius: 4px;
-    border: 1px solid #bbb;
-    cursor: pointer;
-    box-sizing: border-box;
-}
-
-.button:hover,
-button:hover,
-input[type="submit"]:hover,
-input[type="reset"]:hover,
-input[type="button"]:hover,
-.button:focus,
-button:focus,
-input[type="submit"]:focus,
-input[type="reset"]:focus,
-input[type="button"]:focus {
-    color: #333;
-    border-color: #888;
-    outline: 0;
-}
-
-.button.button-primary,
-button.button-primary,
-input[type="submit"].button-primary,
-input[type="reset"].button-primary,
-input[type="button"].button-primary {
-    color: #FFF;
-    background-color: #33C3F0;
-    border-color: #33C3F0;
-}
-
-.button.button-primary:hover,
-button.button-primary:hover,
-input[type="submit"].button-primary:hover,
-input[type="reset"].button-primary:hover,
-input[type="button"].button-primary:hover,
-.button.button-primary:focus,
-button.button-primary:focus,
-input[type="submit"].button-primary:focus,
-input[type="reset"].button-primary:focus,
-input[type="button"].button-primary:focus {
-    color: #FFF;
-    background-color: #1EAEDB;
-    border-color: #1EAEDB;
-}
-
 
 /* Forms
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -887,11 +512,6 @@ td:last-child {
 
 /* Spacing
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-button,
-.button {
-    margin-bottom: 1rem;
-}
-
 input,
 textarea,
 select,
