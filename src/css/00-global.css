@@ -1,78 +1,78 @@
 @import url('./10-reset.css');
-
 @import url('./20-root.css');
 @import url('./90-animations.css');
 
-/*##############
-Styling
-##############*/
-
-.content-wrapper {
-    margin: 0 auto;
-    max-width: 1000px;
-    padding: 0 var(--sides-padding-desktop);
+.emote {
+    vertical-align: middle;
+    display: inline;
 }
 
-@media (max-width: 800px) {
-    .content-wrapper {
-        padding: 0 var(--sides-padding-mobile);
+.fauxtable {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 0 0;
+}
+
+.fauxtable>*>svg,
+img {
+    vertical-align: middle;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin-right: 0.2rem;
+    pointer-events: none;
+    margin-top: -2px;
+}
+
+.floating {
+    font-family: var(--logo-font);
+}
+
+/* Header */
+.header {
+    margin: 3vw 0 3vw 0;
+}
+
+@media (min-width: 1200px) {
+    .header {
+        margin: 4rem 0 4rem 0;
     }
 }
 
-/* Plane perspectives */
-.plane {
-    perspective: 1000px;
+.headerlinks {
+    margin: 1rem 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--tertiary-font);
+    font-size: 2.5rem;
+    font-weight: 500;
 }
 
-.plane-left {
-    transform: rotateY(10deg);
-    text-align: left;
-    margin: 0;
+/* Footer */
+.footer {
+    justify-content: center;
+    margin: 3vw 0 3vw 0;
 }
 
-@media (max-width: 800px) {
-    .plane-left {
-        transform: rotateY(0deg);
+@media (min-width: 1200px) {
+    .footer {
+        margin: 4rem 0 4rem 0;
     }
 }
 
-
-.plane-right {
-    transform: rotateY(-10deg);
-    text-align: right;
+.footer>a {
+    display: inline-block;
+    font-family: var(--tertiary-font);
+    font-size: 1.7rem;
+    font-weight: 500;
 }
 
-@media (max-width: 800px) {
-    .plane-right {
-        transform: rotateY(0deg);
-    }
-}
-
-.plane-middle {
-    text-align: left;
-    margin: 0 7rem 0 7rem;
-}
-
-@media (max-width: 800px) {
-    .plane-middle {
-        margin: 0;
-    }
-}
-
-/* Title style */
-h1.title {
-    font-family: DelaGothicOne;
-    font-size: 5rem;
-}
-
-@media (max-width: 800px) {
-    h1.title {
-        font-size: 3rem;
-    }
-
-}
-
-h2.title {
-    font-family: DelaGothicOne;
-    font-size: 5rem;
+.footer>*>svg,
+img {
+    vertical-align: middle;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin-right: 0.2rem;
+    pointer-events: none;
+    margin-top: -2px;
 }
