@@ -2,6 +2,7 @@ module.exports = function(eleventyConfig) {
     // additional watch targets
     eleventyConfig.addWatchTarget("./src/posts");
     // copy static assets to the output folder
+    eleventyConfig.addPassthroughCopy("./src/CNAME");
     eleventyConfig.addPassthroughCopy("./src/*.png");
     eleventyConfig.addPassthroughCopy("./src/*.ico");
     eleventyConfig.addPassthroughCopy("./src/*.xml");
