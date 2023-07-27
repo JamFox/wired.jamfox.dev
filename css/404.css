@@ -1,0 +1,7 @@
+/* 404 specific styles */
+/* Text in the middle of the page */
+.middletext {
+    font-family: var(--tertiary-font);
+    margin-top: 15rem;
+    text-align: center;
+}
