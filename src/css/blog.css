@@ -1,1 +1,26 @@
 /* Blog specific styles */
+table.article-list {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+tr.article-row td.article-date {
+    white-space: nowrap;
+    font-family: var(--primary-font);
+    border: none;
+}
+
+tr.article-row td.article-date time {
+    border: none;
+    padding-right: 1.4rem;
+    font-family: var(--tertiary-font);
+}
