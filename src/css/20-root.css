@@ -4,10 +4,24 @@
 }
 
 @font-face {
-    font-family: inter;
-    src: url('/fonts/Inter.ttf');
+    font-family: recursivevar;
+    src: url('/fonts/Recursive_VF_1.085.woff2') format("woff2 supports variations"),
+        url('/fonts/Recursive_VF_1.085.woff2') format("woff2-variations");
+    font-weight: 300 1000;
+    font-variation-settings:
+        "MONO" var(--MONO), "CASL" var(--CASL),
+        "slnt" var(--slnt), "CRSV" var(--CRSV);
 }
 
+@font-face {
+    font-family: recursivevar-mono;
+    src: url('/fonts/Recursive_VF_1.085.woff2') format("woff2 supports variations"),
+        url('/fonts/Recursive_VF_1.085.woff2') format("woff2-variations");
+    font-weight: 300 1000;
+    font-variation-settings:
+        "MONO" 1, "CASL" 0.1,
+        "slnt" var(--slnt), "CRSV" var(--CRSV);
+}
 
 :root {
     --sides-padding-desktop: 3%;
@@ -29,16 +43,26 @@
     --rose-quartz: hsla(321, 19%, 67%, 1);
 
     --base-font-size: 1.8em;
+    /* Monospace: Sans (natural-width) or Mono (fixed-width) */
+    --MONO: 0.1;
+    /* Casual: Linear to Casual */
+    --CASL: 0.55;
+    /* Slant: 0 to -15 degrees, auto cursive at -14 */
+    --slnt: -1;
+    /* Cursive: always roman 0, auto substitution 0.5, or always cursive 1 */
+    --CRSV: 0.5;
+
     /* Good pairs: 
     JMH-Cthulhumbus-Arcade & VT323-Regular
     Italipixel & 9801
     technotot & inter
+    recursive & monospace
     */
     --logo-font: 'technotot', sans-serif;
-    --main-font: 'inter', sans-serif;
-    --secondary-font: 'inter', sans-serif;
-    --tertiary-font: monospace;
-    
+    --main-font: 'recursivevar', sans-serif;
+    --secondary-font: 'recursivevar', sans-serif;
+    --tertiary-font: 'recursivevar-mono', monospace;
+
     --main-color: var(--eerie-black);
     --main-accent-color: var(--davys-gray);
     --secondary-color: var(--azure-web);
@@ -265,7 +289,7 @@ body {
     /* currently ems cause chrome bug misinterpreting rems on body element */
     line-height: 1.6;
     font-weight: 400;
-    font-family: var(--primary-font);
+    font-family: var(--main-font);
     background: var(--main-color);
     color: var(--secondary-color);
 }
@@ -358,10 +382,14 @@ p {
 a {
     color: var(--tertiary-color);
     text-decoration: none;
+    transition: 0.4s;
 }
 
 a:hover {
     color: var(--tertiary-accent-color);
+    font-weight: 900;
+    --slnt: -10;
+    --CASL: 1;
 }
 
 /* Forms

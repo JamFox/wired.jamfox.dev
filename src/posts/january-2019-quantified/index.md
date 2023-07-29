@@ -164,14 +164,6 @@ Socialising took up 6.5% or 48 hours of my time. I spent way less time with frie
 
 I went to two parties - New Years and a classmates birthday, saw a play ("Väikekodanlased"), went to a ninja-warrior styled gym, baked waffles with a friend and had 6 DnD sessions.
 
-<img src="https://g1.nh.ee/images/pix/900x600/VYrqYJeAdiY/liisa-saaremael-paremal-robert-annus-ja-kaie-mihkelson-draamateatri-uu-81494419.jpg" alt="Liisa Saaremäel (paremal), Robert Annus ja Kaie Mihkelson Draamateatri uues lavastuses „Väikekodanlased”Foto: Aron Urb"/>
-
-> _**"Väikekodanlased" Lavastaja: **Maksim Gorki****_
-
-![Avaleht](https://s14-eu5.startpage.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTxaVE6bqRVXxXN-4FokdzStm9JdwooOdI5nT_Vq8xIedmQYh-6Cg&sp=baf714b629f203721a834020a20196cc&anticache=354147)
-
-> _**Warrior's Den**_
-
 ### Exercise
 
 I spent 4.3% or 32 hours exercising, of which I spent 13 running, 1 biking and 18 in the gym. That's juuuust a tad over 1 hour every day on average. This is pretty much on how I plan it to be, save for the fact that I want to bike more, but the icy roads were to blame this month. Hit all my goals: hit 10k for running; switched to a new 6 day gym split (I have the opportunity to have a freaking free gym all to myself, of course I'm gonna capitalize on it and train as much as I can!); had no goals for biking, it's just as a support for running.

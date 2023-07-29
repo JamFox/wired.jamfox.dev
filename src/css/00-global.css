@@ -25,6 +25,8 @@ img {
 
 .floating {
     font-family: var(--logo-font);
+    text-shadow: -3px 3px 0px rgb(119, 129, 126),
+        -6px 6px 0px rgb(70, 77, 75);
 }
 
 /* Header */
@@ -64,7 +66,6 @@ img {
     display: inline-block;
     font-family: var(--tertiary-font);
     font-size: 1.7rem;
-    font-weight: 500;
     margin-bottom: 1rem;
 }
 

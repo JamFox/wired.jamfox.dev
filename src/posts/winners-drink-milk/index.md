@@ -24,7 +24,7 @@ Well, go grab your cookies, hot chocolate and your favorite ふわふわ blanket
 
 It all started on 18th of December 2014. It was a normal Thursday. Save for that it wasn't a normal Thursday after all...
 
-The sounds of my backpack tumbling across the vestibule downstairs were still heard as the rapid thumps of my feet were already sounding upstairs. As a any average Joe after a schoolday at the age of 14, so was I in the hurry of finally getting my daily dose of videogames and Youtube videos. But little did I know... That day, the Youtube dose was laced - in the "recommended" tab I was greeted by this video.
+The sounds of my backpack tumbling across the vestibule downstairs were still heard as the rapid thumps of my feet were already sounding upstairs. As a any average Joe after a schoolday at the age of 14, so was I in the hurry of finally getting my daily dose of videogames and Youtube videos. But little did I know... That day, the Youtube dose was laced - in the "recommended" tab I was greeted by this video:
 
 **"[CS.GO - From Nothing To A Knife](https://www.youtube.com/watch?v=hLjq625UhSo)" by Clicky Crisp**
 
@@ -50,17 +50,17 @@ When my inexperienced ass arrived it was already a hellhole of crazed teenagers,
 
 So i dived into the Steam Community Market to hunt for a skin that was stable in value and at around 2,5 keys. I found 3-5 potential ones and picked 2 that looked the most appealing to me - "well if I'm gonna be trading these cool skins I better enjoy them too!" Then I searched up who were trying to trade those particular skins and went to bug every single one of them until one of them accepted. Enter the Minimal Wear M4A1-S | Atomic Alloy (with 2 stickers!):
 
-![](https://jamcogshome.files.wordpress.com/2019/01/firefox_2019-01-15_20-27-14.png?w=345)
+![](/images/firefox_zfjD1Ag1l0.png)
 
 The ecstasy of making my first profitable trade shot my motivation up even more! Over the next 2 weeks, it became my obsession. I was online as much as I humanly could, checking notifications for any new trades, messages, anything. I no longer even played the game, I just traded. And traded. And traded. So many skins passed through my hands. I even stopped caring about the looks - all that mattered was that the profits were stable. And they were - I was making a _whopping average 0,3€ a day_! It's hilarious in hindsight, I was ecstatic about working for 'slave-wages' as they call it now, but I was having _so much fun_. Besides, the fact that the numbers were growing, was a sign that I was doing something right and consequently _that_ meant I could move to bigger trades.
 
 **Quick tangent**: There were quite a few screenshots I took and uploaded to Steam at this time and they are worth sharing here just for the pure excitement and naivety that they preserve. I'm so goddamn glad I took these, the nostalgia is immeasurable...
 
-- ![](/images/firefox_2019-01-14_19-04-24.png)
+![](/images/firefox_2019-01-14_19-04-24.png)
     
-- ![](/images/firefox_2019-01-15_20-09-21.png)
+![](/images/firefox_2019-01-15_20-09-21.png)
     
-- ![](/images/firefox_2019-01-15_20-09-40.png)
+![](/images/firefox_2019-01-15_20-09-40.png)
     
 
 There was one notable story where I bought someone's shitty 0,05€ skin because it's Battle-Scarred condition made it look "_almost"_ black. And my inner business man thought that he could use it to his advantage. I knew that the default skins were hated and same applied for the default dark green skin of AWP. I thought that an "almost black" Battle-Scarred AWP skin was a better alternative that had the potential to be sold for a whole key! Default < Skin so that must mean Green < Almost Black right? Buuuut the self-coined "Much Black" skin was more like an AWP with sand smeared all over it. Just look at the screenshots and decide for yourself if anyone actually fell for it...
@@ -104,8 +104,8 @@ I pulled the trigger and went ham on trying to sell these things. I maxed the r/
 
 ![](/images/730_screenshots_2015-01-22_00001.jpg)
 
-> _**Caption on Steam Community:  
->_"God damn, i love the flip it makes when you equip it! ★ Bayonet | Urban Masked Field-Tested"_**_
+*Caption on Steam Community:*  
+>"God damn, i love the flip it makes when you equip it! ★ Bayonet | Urban Masked Field-Tested"
 
 Holy fuck! I actually made it happen!
 
@@ -125,22 +125,22 @@ I knew I was making less than I could have with other strategies, but I _loved_ 
 
 ![](/images/730_screenshots_2015-01-24_00003.jpg)
   
-> _**2015/01/28 **Huntsman Knife | Night** _(Field-Tested)_**_
+> *2015/01/28 **Huntsman Knife | Night** (Field-Tested)*
 
 ![](/images/730_screenshots_2015-01-28_00002.jpg)
 
-> _**2015/01/28 **Flip Knife | Crimson Web** _(Field-Tested)_**_
+> *2015/01/28 **Flip Knife | Crimson Web** (Field-Tested)*
 
 Actually, I found another comfort spot for a few days alongside Betiimovs - the Field-Tested Crimson Web Flip Knives were pretty popular for some reason. I traded through 4 different ones before getting bored of knives and moved back to Betiimovs. Only difference now was that I could afford 2 of them at once, so my profit margins rose. Then after a week I could afford the vanilla Bayonet variants, which I traded for a few days before moving back to those beloved Betiimovs again.
 
 ![](/images/730_screenshots_2015-02-06_00002.jpg)
 
-> _**2015/02/06 Bayonet Vanilla**_
+> *2015/02/06 Bayonet Vanilla*
 
 ![](/images/730_screenshots_2015-02-10_00001.jpg)
 
   
-> _**2015/02/06 M9 Bayonet Vanilla**_
+> *2015/02/06 M9 Bayonet Vanilla*
 
 ## Stay humble
 
@@ -152,7 +152,7 @@ One day, searching for my next Betiimov purchase I was met with a friend request
 
 ![](/images/untitled.png)
 
-> _**As of 2019/01/19 aka 4 years later, it's still in his inventory!**_
+> *As of 2019/01/19 aka 4 years later, it's still in his inventory!*
 
 The Minimal Wear (I could not afford a Factory New one I guess, haha.) Glock-18 Water Elemental. Many such skins have passed through my inventory with similar tags: "From X to Y" and it has always been a sorry sight seeing that people have traded their gifts away. My old friend, M., who I haven't talked to, but who has remained in my friendlist did not trade my gift away. And for that I am deeply grateful.
 
@@ -179,46 +179,46 @@ Not much more notable happened during this time, aside from the huge profits I w
 
 ![](/images/730_screenshots_2015-02-23_00001.jpg)
 
-> _**2015/02/23 **Butterfly Knife | Crimson Web** _(Field-Tested)_**_
+> *2015/02/23 **Butterfly Knife | Crimson Web**(Field-Tested)*
 
 ![](/images/730_screenshots_2015-03-01_00002.jpg)
 
   
-> _**2015/03/01 **M9 Bayonet | Night** _(Minimal Wear)_**_
+> *2015/03/01 **M9 Bayonet | Night** (Minimal Wear)*
 
 ![](/images/730_screenshots_2015-03-02_00003.jpg)
 
   
-> _**2015/03/03 **Bayonet | Night** _(Minimal Wear)_**_
+> *2015/03/03 **Bayonet | Night** (Minimal Wear)*
 
-> _**![](/images/730_screenshots_2015-03-07_00002.jpg)
+![](/images/730_screenshots_2015-03-07_00002.jpg)
 
   
-> _**2015/03/06 **Karambit Vanilla****_
+> *2015/03/06 **Karambit Vanilla***
 
 ![](/images/730_screenshots_2015-03-17_00005.jpg)
 
   
-> _**2015/03/17 **Bayonet | Slaughter** _(Factory New)_**_
+> *2015/03/17 **Bayonet | Slaughter** (Factory New)*
 
 ![](/images/730_screenshots_2015-03-20_00003.jpg)
 
   
-> _**2015/03/20 **M4A4 | Asiimov** _(Field-Tested, but looks Minimal Wear or even Factory New)_**_
+> *2015/03/20 **M4A4 | Asiimov** (Field-Tested, but looks Minimal Wear or even Factory New)*
 
 ![](/images/730_screenshots_2015-03-21_00001.jpg)
 
-> _**2015/03/21 **M4A4 | Howl** _(Field-Tested)_**_
+> *2015/03/21 **M4A4 | Howl** (Field-Tested)*
 
 The last picture of the skin above, of the M4A4 | Howl, is significant because it had been my dream skin from the beginning. Secondly, it was a Contraband weapon, which meant it was no longer available from lootcrates. It turned out the community created skin had [violated a DeviantArt user's copyright](https://www.pcgamer.com/csgo-howl-skin/2/) and was thus changed by valve and then made into a Contraband skin. If you wanted one, you had to buy one with a lot of money or trade for it. It was extremely valuable, rare and above all it was the best looking non-knife skin at that time.
 
 ![](/images/sr4x3l2zcxmpx3oxtgrmsw-650-80.jpg)
 
-> _**Before and after the copyright shenanigans.**_
+> *Before and after the copyright shenanigans.*
 
 ![](/images/sygrhgm8nvf2dqobniibuw-650-80.jpg)
 
-> _**Original artwork that inspired the skin.**_
+> *Original artwork that inspired the skin.*
 
 Thirdly, this is where I got my profile picture. Achieving this skin was the symbol that I had achieved everything I set out to do and then some. I never would have thought that I would be one day wielding the Minimal Wear Howl, which valued at over 300 keys. But there I was, and to celebrate I photoshopped myself a profile picture to always remind myself this monumental experience of my life.
 
@@ -262,21 +262,21 @@ What followed was not interesting enough to recount here. It was the standard bu
 
 ![](/images/730_screenshots_2015-12-02_00002-1.jpg)
 
-> _**2015/12/02 **Karambit | Fade** _(Factory New)_**_
+> *2015/12/02 **Karambit | Fade** (Factory New)*
 
 ![](/images/730_screenshots_2015-12-04_00002.jpg)
 
-> _**2015/12/04 **Flip Knife | Doppler** _(Factory New)_**_
+> *2015/12/04 **Flip Knife | Doppler** (Factory New)*
 
 ![](/images/730_screenshots_2015-12-04_00003-1.jpg)
 
   
-> _**2015/12/04 **Flip Knife | Marble Fade** _(Factory New)_**_
+> *2015/12/04 **Flip Knife | Marble Fade** (Factory New)*
 
 ![](/images/730_screenshots_2015-12-05_00001.jpg)
 
   
-> _**2015/12/05 **M9 Bayonet| Tiger Tooth** _(Factory New)_**_
+> *2015/12/05 **M9 Bayonet| Tiger Tooth** (Factory New)*
 
 But after coming back in half a year something had changed... I noticed that items sold way slower than usual and people were way more stingier with prices. It just wasn't worth it for me anymore. Even at my size of my inventory at 400 keys, I was making 1 to 2 keys profit each trade. That was way lower than I was used to. It was like a warehouse, full of real estate brokers that tried to buy houses from each other with the only goal of reselling them and that's a cul-de-sac if I've ever seen one. It just didn't work. So I decided to stop, I cashed out most of my inventory for 900€ and left some of it there just in case I wanted to buy some games or come back to trading (which I did not).
 
@@ -286,4 +286,4 @@ A spectacular story if I do say so myself. Not sure how well that worked as a wr
 
 ![](/images/firefox_2019-01-19_17-11-32.png)
 
-> _**Adam "at0m" Keitel drinking milk, like a winner should!**_
+> *Adam "at0m" Keitel drinking milk, like a winner should!*

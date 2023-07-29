@@ -3,19 +3,19 @@ layout: "blog-layout.html"
 title: "Blog | JamFox"
 description: "JamFox's blog"
 ---
-<table class="article-list"> 
-{% for post in collections.post | reverse %}
-<tr class="article-row">
-    <td class="article-date">
-        <time datetime="" pubdate>{{ post.data.date }}</time>
-    </td>
-    <td>
-        <span><a href="{{ post.url }}">{{ post.data.title }}</a></span>
-    </td>
-</tr>
+<table class="article-list">
+    {% for post in collections.post | reverse %}
+    <tr class="article-row">
+        <td class="article-date">
+            <time datetime="" pubdate>{{ post.data.date }}</time>
+        </td>
+        <td>
+            <span><a href="{{ post.url }}">{{ post.data.title }}</a></span>
+        </td>
+    </tr>
 
-{% endfor %}
-</table> 
+    {% endfor %}
+</table>
 
 <p class="fauxtable">
     <span><a href="{{ post.url }}">{{ post.data.title }}</a></span>
