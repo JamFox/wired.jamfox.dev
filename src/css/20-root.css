@@ -8,19 +8,13 @@
     src: url('/fonts/Recursive_VF_1.085.woff2') format("woff2 supports variations"),
         url('/fonts/Recursive_VF_1.085.woff2') format("woff2-variations");
     font-weight: 300 1000;
+    /* Monospace: Sans (natural-width) or Mono (fixed-width) */
+    /* Casual: Linear to Casual */
+    /* Slant: 0 to -15 degrees, auto cursive at -14 */
+    /* Cursive: always roman 0, auto substitution 0.5, or always cursive 1 */
     font-variation-settings:
-        "MONO" var(--MONO), "CASL" var(--CASL),
-        "slnt" var(--slnt), "CRSV" var(--CRSV);
-}
-
-@font-face {
-    font-family: recursivevar-mono;
-    src: url('/fonts/Recursive_VF_1.085.woff2') format("woff2 supports variations"),
-        url('/fonts/Recursive_VF_1.085.woff2') format("woff2-variations");
-    font-weight: 300 1000;
-    font-variation-settings:
-        "MONO" 1, "CASL" 0.1,
-        "slnt" var(--slnt), "CRSV" var(--CRSV);
+        "MONO" 0.1, "CASL" 0.75,
+        "slnt" -1, "CRSV" 0.5;
 }
 
 :root {
@@ -43,14 +37,6 @@
     --rose-quartz: hsla(321, 19%, 67%, 1);
 
     --base-font-size: 1.8em;
-    /* Monospace: Sans (natural-width) or Mono (fixed-width) */
-    --MONO: 0.1;
-    /* Casual: Linear to Casual */
-    --CASL: 0.55;
-    /* Slant: 0 to -15 degrees, auto cursive at -14 */
-    --slnt: -1;
-    /* Cursive: always roman 0, auto substitution 0.5, or always cursive 1 */
-    --CRSV: 0.5;
 
     /* Good pairs: 
     JMH-Cthulhumbus-Arcade & VT323-Regular
@@ -61,7 +47,7 @@
     --logo-font: 'technotot', sans-serif;
     --main-font: 'recursivevar', sans-serif;
     --secondary-font: 'recursivevar', sans-serif;
-    --tertiary-font: 'recursivevar-mono', monospace;
+    --tertiary-font: 'recursivevar', monospace;
 
     --main-color: var(--eerie-black);
     --main-accent-color: var(--davys-gray);
@@ -382,14 +368,15 @@ p {
 a {
     color: var(--tertiary-color);
     text-decoration: none;
-    transition: 0.4s;
+    transition: 0.5s;
 }
 
 a:hover {
     color: var(--tertiary-accent-color);
     font-weight: 900;
-    --slnt: -10;
-    --CASL: 1;
+    font-variation-settings:
+        "MONO" 0.15, "CASL" 0.75,
+        "slnt" 0, "CRSV" 0.5;
 }
 
 /* Forms

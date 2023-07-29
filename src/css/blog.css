@@ -26,5 +26,7 @@ tr.article-row td.article-date time {
     padding-right: 1.4rem;
     font-family: var(--tertiary-font);
     font-weight: 325;
-    --MONO: 1;
+    font-variation-settings:
+    "MONO" 1, "CASL" 0.45,
+    "slnt" 0, "CRSV" 0.5;
 }
