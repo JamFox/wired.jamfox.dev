@@ -9,8 +9,10 @@
 
 .item>p {
     line-height: 1.4;
-    margin: 0.3rem;
-    font-family: monospace;
+    margin-right: 0.3rem;
+    margin-bottom: 0.3rem;
+    font-size: 1.6rem;
+    font-weight: 350;
     text-align: left;
 }
 
