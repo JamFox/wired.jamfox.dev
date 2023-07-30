@@ -24,8 +24,8 @@ Feel free to use and copy what you want.
 					<a href="/">home</a> &nbsp;
 					<a href="/setup">uses</a> &nbsp;
 					<!--<a href="/blog">blog</a> &nbsp;-->
+					<a href="/guestbook">guestbook</a> &nbsp;
 					<a href="https://docs.jamfox.dev/">docs</a> &nbsp;
-					<a href="https://docs.jamfox.dev/content/links/">discover</a> &nbsp;
 					{% block headerlinks %}{% endblock %}
 				</p>
 			</div>
@@ -37,6 +37,7 @@ Feel free to use and copy what you want.
 			{{ content | safe }}
 		</div>
 	</main>
+	{% block comments %}{% endblock %}
 	<div class="container">
 		<div class="footer">
 			<a href="mailto:inquiry@jamfox.dev">
