@@ -50,6 +50,10 @@ img {
     font-weight: 500;
 }
 
+.headerlinks a {
+    margin-right: 1rem;
+}
+
 /* Footer */
 .footer {
     justify-content: center;
@@ -67,6 +71,7 @@ img {
     font-family: var(--tertiary-font);
     font-size: 1.7rem;
     margin-bottom: 1rem;
+    margin-right: 1rem;
 }
 
 .footer>*>svg,
