@@ -1,4 +1,8 @@
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 module.exports = function(eleventyConfig) {
+    // plugins
+    eleventyConfig.addPlugin(pluginRss);
     // additional watch targets
     eleventyConfig.addWatchTarget("./src/posts");
     // copy static assets to the output folder
