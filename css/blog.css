@@ -2,7 +2,7 @@
 table.article-list {
     border-collapse: collapse;
     border-spacing: 0;
-    margin: 0;
+    margin: 0 0 3rem 0;
     padding: 0;
 }
 

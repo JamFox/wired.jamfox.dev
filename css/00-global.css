@@ -31,12 +31,12 @@ img {
 
 /* Header */
 .header {
-    margin: 3vw 0 3vw 0;
+    margin: 2vw 0 2vw 0;
 }
 
 @media (min-width: 1200px) {
     .header {
-        margin: 4rem 0 4rem 0;
+        margin: 3rem 0 3rem 0;
     }
 }
 
@@ -46,7 +46,7 @@ img {
     justify-content: space-between;
     align-items: center;
     font-family: var(--tertiary-font);
-    font-size: 2.2rem;
+    font-size: 1.7rem;
     font-weight: 500;
 }
 
@@ -57,12 +57,12 @@ img {
 /* Footer */
 .footer {
     justify-content: center;
-    margin: 3vw 0 3vw 0;
+    margin: 2vw 0 2vw 0;
 }
 
 @media (min-width: 1200px) {
     .footer {
-        margin: 4rem 0 4rem 0;
+        margin: 3rem 0 3rem 0;
     }
 }
 
