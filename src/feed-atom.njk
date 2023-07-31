@@ -29,11 +29,13 @@
   {%- for post in collections.posts | reverse %}
   {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
   <entry>
-    <title>{{ post.data.title }}</title>
+    <title><![CDATA[{{ post.data.title }}]]></title>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
-    <content xml:lang="{{ metadata.language }}" type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}</content>
+    <content xml:lang="{{ metadata.language }}" type="html"><![CDATA[
+      {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe | indent(6) }}
+    ]]></content>
   </entry>
   {%- endfor %}
 </feed>

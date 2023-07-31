@@ -25,9 +25,11 @@
     {%- for post in collections.posts | reverse %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
-      <title>{{ post.data.title }}</title>
+      <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
-      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}</description>
+      <description><![CDATA[
+        {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe | indent(8) }}
+      ]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
