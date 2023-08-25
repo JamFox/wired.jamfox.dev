@@ -24,7 +24,15 @@ I feel like writing a writing a diary, journaling, sketchbooking is the closest 
 
 Being alone is worse than not being understood which is why [a gap emerges between who you are, and who you are presenting](https://moretothat.com/the-problem-of-what-others-think/). But beyond that, isn't there a desire to not have that gap? To find someone you could present yourself to honestly and without filters? Someone you could share your diary with in a way where you don't have to think about filtering?
 
-Lay it all bare!
+I assume for most the filters would follow the order of:
+
+1. self, blobby mess of thoughts and feelings - no filter (?).
+2. diary language filter - thoughts as honest as the language allows not accounting for self-deception.
+3. close friends and family filter - thoughts honest as the language allows, but with parts omitted.
+4. interested-but-not-yet-friends filter - may or may not be honest, with many parts omitted.
+5. strangers filter - probably a separate persona, with some semblance of honesty.
+
+But why stop at the third filter? Don't we want to lay it all bare for those we hold dear?
 
 ---
 ## Karl Conscious Era
