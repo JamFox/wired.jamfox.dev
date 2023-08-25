@@ -49,7 +49,7 @@ Yet with puberty came Consciousness. And with it The Questions of Life (KCE, the
 
 Yet at that age of puberty, it is impossible to understand one's self, to even begin to answer these questions. They weren't even questions at that time, more like some vague floaty feelings and semi-related thought-loops that came to bother me from time to time.
 
-So deep down I wanted to be understood, yet doesn't that seem at odds with my own inability to even comprehend these same questions? How would anyone possibly understand my if I myself didn't? Compounded by the very real chance that everyone else was in one way or another wrestling with the same exact questions.
+So deep down I wanted to be understood, yet doesn't that seem at odds with my own inability to even comprehend these same questions? How would anyone possibly understand me if I myself didn't? Compounded by the very real chance that everyone else was in one way or another wrestling with the same exact questions.
 
 Puberty is a funky time for all involved. A time where everyone wants to be noticed, understood and loved. Yet! No-one really has any attention to look beyond themselves, any capacity to understand anyone else than themselves, and no love to give just our own gaping holes in the heart to fill. It's like everyone's frantically running around asking for things they themselves can't give.
 
