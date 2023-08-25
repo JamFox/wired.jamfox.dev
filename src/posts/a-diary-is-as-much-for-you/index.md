@@ -24,6 +24,8 @@ I feel like writing a writing a diary, journaling, sketchbooking is the closest 
 
 Being alone is worse than not being understood which is why [a gap emerges between who you are, and who you are presenting](https://moretothat.com/the-problem-of-what-others-think/). But beyond that, isn't there a desire to not have that gap? To find someone you could present yourself to honestly and without filters? Someone you could share your diary with in a way where you don't have to think about filtering?
 
+Lay it all bare!
+
 ---
 ## Karl Conscious Era
 
