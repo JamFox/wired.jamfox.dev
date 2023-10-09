@@ -4,17 +4,1143 @@
   <subtitle>JamFox&#39;s posts about anything, ,mostly in english, sometimes in estonian.</subtitle>
   <link href="https://jamfox.dev/blog/feed.atom" rel="self"/>
   <link href="https://jamfox.dev/blog/"/>
-  <updated>2023-08-25T00:00:00Z</updated>
+  <updated>2023-10-08T00:00:00Z</updated>
   <id>https://jamfox.dev/blog/</id>
   <author>
     <name>JamFox</name>
     <email>feed@jamfox.dev</email>
   </author>
   <entry>
+    <title><![CDATA[A Month of 2021 Quantified]]></title>
+    <link href="https://jamfox.dev/blog/month-of-2021-quantified/"/>
+    <updated>2023-10-08T00:00:00Z</updated>
+    <id>https://jamfox.dev/blog/month-of-2021-quantified/</id>
+    <content xml:lang="en" type="html"><![CDATA[
+      <p>Back in 2019 I did <a href="https://jamfox.dev/blog/january-2019-quantified/">a month of quantified self</a>, every activity was broadly tracked in 1 hour increments in a Google Sheet template I found on Reddit.</p>
+      <p>It was interesting, but I didn't continue after that one month. Then came 2021, a year marked by my busiest semester ever, juggling many commitments with almost no room for a breather. So I did what anyone would logically do and added another commitment: I began meticulously tracking my time, not just in broad one-hour chunks but down to the very seconds, complete with categories and subcategories.</p>
+      <p>For 27 days, from 2021-10-14 to 2021-11-10, I tracked every single second of my time with a total of 664 hours, 1 minute and 34 seconds of tracked time. I used <a href="https://toggl.com/track/">Toggl Track</a> to track my time and export the results.</p>
+      <p>In terms of major commitments I was juggling:</p>
+      <ul>
+      <li>a half-time job as a sysadmin and DevOps engineer at a High Performance Computing center.</li>
+      <li>a position as the president of Student Council of the School of IT.</li>
+      <li>third semester of hardware development with a workload that was beyond the nominal ECTS requirements of a full-time student at TalTech.</li>
+      <li>social life.</li>
+      <li>working out.</li>
+      </ul>
+      <p>The whole idea was to answer a very common question I used to get at that time: &quot;just how do you manage all this without a burnout?&quot;</p>
+      <p>Empirics help, but in essence I also did not know what to answer besides &quot;I just say yes to everything that seems interesting and also - sleep is paramount! ☝️🤓&quot; (I mean yes, sleep is still paramount, even if you're not doing a stupid grindset like I was). So I will just copy paste from the 2019 post: you can't learn from what you can't observe. Not that you would need to observe every second to be able to grow as a person, but in the long run it definitely did not hurt to have this data.</p>
+      <p>So did it hurt in the short term? Weeeell... read on! In the last one I focused on raw numbers a lot since there was no real context to that time, my life was and had been quite the same for years, same school, same friends, same old. I focused a lot on my operational lifestyle. Played around with diets and fasting which led me to not get hangry and finding out I can actually focus <em>better</em> when hungry, it turns out my body is fine with starving as it can &quot;just eat later&quot;. I experimented with sleep schedules (including some lighter variants of polyphasic sleep), found out my sleep harmony was going to sleep around 1-2am and waking up at 9-10am. I tried studying methods, different ways and times of working out, meditating and all sorts of things: all in all my routines were pretty much set in stone and that gave me time to explore and identify the systems and living mechanisms that resonated most with my mind and body.</p>
+      <p>It's a bit different for the mandatory military and uni years of turbulence, filled with significant changes in thought and lifestyle that put all of what I had learned and the brain itself through its paces.</p>
+      <p>So with the following covers the surrounding years to give insight into how I ended up in the classic Estonian Workhorse Grindset™ and how I finally diverged from it.</p>
+      <h3>2019 july - 2020 may</h3>
+      <p>I had just found a new peace with myself after finally nurturing deep friendships and getting over the worst my avoidant attachment behavior and thought patterns. I thought I had more or less figured out who I was and what was the source of my confidence, not to mention all the newfound understanding of my mind and body. I was ready to open up myself to the world, express myself, stop consuming and start creating more.</p>
+      <p>The night before stepping on the bus that would take me to hell and back we shaved our heads with those that also had their own military service buses to catch (but their buses went to what seemed fun camps). It was only after all the fun photoshoots of ridiculous hairstyles before fully shaving that I realized how much of my outward expression I had lost. I looked at the bundle of hair in the bin while listening to the quiet brushing against my teeth after the loud shenanigans we had had minutes before. I glanced up and I can tell you that it wasn't just the depressant effects of the alcohol still in my blood that made my stomach drop. It just wasn't me anymore, I looked so cold without my hair, so unnatural, a little more aggressive.</p>
+      <p>I thought it wasn't that bad the next morning, but I probably should have taken it as a sign of things to come. I had been told that I had a choice on which bus to step on since I had voluntarily signed up, yet when I arrived no such choice actually existed. Another sign.</p>
+      <p>When I arrived I understood that they literally could not give a SINGLE FLYING FUCK about any one of us there. We were numbers in a sheet, these numbers already had a place picked out and there was no room for deviation. Each of us possessing very different qualities, knowledge, education, capabilities which could've been useful in so many different ways: reduced to uniform mass of muscle. It didn't matter that there were people in the crowd who knew what spoons were and where to get them, we were all there told to finish soup with knives.</p>
+      <p>It's not just the inhumanity which we were treated with (both verbally and physically) which could be explained with keeping everyone in line (even though even maintaining discipline does not really justify how awful they were to the conscripts). It's the plain stupidity, laziness, and inefficiency that was driving me crazy. I'm not telling you to drive sustainable, green electric tanks to the front lines, I'm saying maybe it's not necessary to drive a whole convoy around 100+km to find a single lost magazine? Maybe it's not necessary to berate conscripts while they dig moss from between walkways that are cleaned by the cleaning company on the military's payroll anyway just because some higher up was bored?</p>
+      <p>When you are so off the deep end that you can't not try to propose a better way of doing something you'll be put back in &quot;your place&quot; for doing the job of higher ups: thinking. No expression is allowed, a slight smirk was caught and treated as the sickness of deviation it is. Every single minute of free time was be filled with any random activity to suppress any kind of expression, even that of private and internal. Worst part is that it was effective, soon my peers were talking about nothing but stuff related to the service. It makes sense, like I said all of our time was thinking of or living the military life now, yet it made my unbelievably sad that each of my attempts to talk about <em>anything</em> else was met with a bounce back to whatever frustration they had that morning or similar.</p>
+      <p>I tried my best to fill every single free second writing to myself, family or friends. But I realized my self was not enough, I needed a feedback to confirm I was not crazy, I needed signs that there were still with working brains and kind people somewhere where I wasn't, that I had somewhere to return to, and there was maybe some hope for me too.</p>
+      <p>Those deep friendships I mentioned? Turns out that even if you have a lot to relate to with someone does not mean that they will be able to empathise with something that they can not relate to. Or that they will care to empathise? I got almost no support from most of the people I wrote to. After a while I stopped writing and calling almost altogether, no point sending messages into the void. It was the most effective filter that showed me who really cared despite them not truly understanding the situation I was in. My mother and my best friend. Both of them female, they had no duty nor desire to join the military service, yet they were there for me. Not like many ladies in my life at the time they did not tell me to man up, to not make a big deal of something that was my duty as a man. They held me on my feet with their kindness, even when I lashed out at them from the crushing weights of my frustrations. They reminded not to lose myself. They reminded that my self could flourish once again if I held on, just as my hair would grow back.</p>
+      <p>With mandatory military service came my second downfall of individuality (<a href="https://jamfox.dev/blog/a-diary-is-as-much-for-you/">after that of puberty</a>) and the taps of my expression were essentially screwed shut. My capabilities, intelligence, all that which I had been praised for years, suddenly all of it was reduced to nothing. All my expression was found as dangerous deviation to the military or annoying whining to most of whom I thought of as my friends. And my self? I just could not trust myself under all that pressure.</p>
+      <p>During the last 3 months of the military service I lost most of my muscle, I lost weight, I lost all desire to create and express. I became an automata, just consuming media and games, just coasting through whatever orders I was handed. I was so boring and empty it was insane, they had succeeded in making me a shell that was just sane enough to carry out simple orders.</p>
+      <blockquote>
+      <p>We've been livin' in the flames, we've been eatin' up our brains.
+      Oh, please, don't let these shakes go on</p>
+      </blockquote>
+      <p>All I lived for in this zombie state was the service end date. And in this future oriented I was losing grasp on the present, I lived for the future. Always thinking of when was the next moment I could go to sleep, thinking of how many days it was until the end. Even during the weekends I was able to go home I couldn't really relax, my mind already started wandering to the misery that would await me in just a couple of days.</p>
+      <h3>2020 summer</h3>
+      <p>These shakes did not go on forever. Which led me to the summer of freedom. Which I spent in its entirety playing the Yakuza games. Played Yakuza 0, Yakuza Kiwami and Yakuza Kiwami 2 and in the spirit of this post it feels relevant to mention that it took 143 hours of that summer, averaging around 1.6 hours a day. It became my daily escape and solace, safe space to immerse myself in.</p>
+      <p>When I wasn't doing a round of <a href="https://www.youtube.com/watch?v=SBKXk2VaOVA&amp;pp=ygURa2lyeXUgc2hvd2VyIG1lbWU%3D">Bakamitai karaoke</a> or doing <a href="https://www.youtube.com/watch?v=joBlWV-SkUM">borderline insane heat actions</a> as Kiryu I noticed I had become more selfish, less kind, a lot less expressive as myself.</p>
+      <p>I had no desire to socialize, talk to people, to go out of the house. I felt an &quot;order&quot; in everything people asked of me, reminding me of worse days, leading me having to exert extra will to not become annoyed when people asked small things of me.</p>
+      <p>I still did go out of the house. There were a couple of bigger birthdays, a longer hike with The Bois, and my friends still invited me to places occasionally even when I did not take initiative. The few times I did go out, I really felt how much worse my ability to form cohesive sentences was - not to mention stories or longer explanations. My ability to care, empathise, to notice what others were feeling had declined.</p>
+      <p>I also felt stuck. In myself. Firstly, I had lost the &quot;why&quot; to expressing myself, then over time it seems I also lost a notable part of the &quot;how&quot;. Secondly, I felt like no-one cared to ask or listen. I hated it so much, I had to find an audience, I had to rediscover the &quot;why&quot;. But I was so exhausted that I just retreated back to playing videogames instead of working on it.</p>
+      <h3>Rest of 2020 - 2021</h3>
+      <p>From the moment the introductory campus orienteering event (and thus my first unofficial school day) was over I was overloaded with a newfound life force. All the students, freshmen and lecturers I had met, all the student organizations I had learned about, were all so full of life and hope... no, scratch that, it was <em>certainty</em> in a bright future and equally bright present.</p>
+      <p>I felt that I could be a part of it, add my own piece to it, to find my audience, to find my &quot;why&quot; once more and through that the &quot;how&quot; too.</p>
+      <p>Suddenly everything that so much as resembled an audience in any way, I was there to go above and beyond. I created and learned Overleaf just to be able to generate the most beautiful graphs and figures, to add &quot;created in LaTeX&quot; at the end of my math homeworks just because I knew that the lecturers would appreciate it. We created an extra &quot;advertisement&quot; video for a completely ridiculous and useless first robotics project that was not part of the grade and gave us &quot;nothing&quot; but the sparkle and respect in the eyes of the lecturers. I spent hours creating a pig mask that saw use only once for a Minecraft themed freshman orientation event. I spent time creating and maintaining a Discord server for our course so that we could share useful information and turn our frustrations into memes. I started going to every public event I could possibly. Everywhere I found an audience, I made sure to leave a mark. Everyone I could be of use to, I would be.</p>
+      <p>And through all that I found new friends (from my course mostly), a new community (Student Council of the School of IT) to be part of every day. It was salvation, I found the joy of being around nice, intellectually and emotionally capable people again.</p>
+      <p>People who <em>cared</em>!</p>
+      <p>People who wanted to do things and not just to get things done but for the sake of itself. People who wanted to do things and not just to get things done but to get them done efficiently and in elegant methods.</p>
+      <p>And they <em>cared</em>!</p>
+      <p>They cared about what I had to say. They cared about what influence I wished to have. They cared about being a part of me.</p>
+      <p>I was relearning what I was capable of, rediscovering the infinite possibilities I had of expressing myself, reexamining my selfishness and the source of it, taking apart my apathy, rebuilding my cynicism back into joy, relearning <a href="https://app.thestorygraph.com/books/a1d2f34f-4700-4617-a309-a5de8bb393b2">The Power of Now</a>.</p>
+      <p>It recontextualized my zombie state into something new - it was as if I was a rubber band that had been stretched to its limit and then released. <strong>I was flying at mach infinity, nothing could stop me!</strong></p>
+      <p>Each semester I took more and more academic credits while maintaining a high enough average grade to warrant 2 stipends for 3 semesters straight. My shoulders could carry more! I accidentally fell into the best possible internship I could have wished for, even though I had no plan of working during uni years. I was elected as <a href="https://jamfox.dev/images/ITUK_Esimees_mottkiri_Turvas.pdf">the president of the IT Student Council</a>. I was developing personally, socially, academically, professionally and my life was full of things to say &quot;yes!!!&quot; to.</p>
+      <p>As a sidenote my programme lead put a really nice looking Chekhov's gun on the wall of my future in the shape of a recommendation letter to CERN.</p>
+      <p>And this was the time I decided to start tracking my time again. Just to capture this speed, unstoppable joy in time where things we so so <em>so</em> unbelievably good.</p>
+      <p>Yet not all was rose colored. My patience, while juggling all these responsibilities and commitments, for example. I felt myself getting irritated when people weren't clear, efficient, getting straight to the point. Anytime I felt someone was wasting my time, I would fly off my handle and walk away if it was possible.</p>
+      <p>Emptying out my to-do list became the leading force. Once again, in an entirely new way, I was losing the ability to focus on the present. I could not be truly present while there was something on the to-do list and it was constantly being filled with new things. What I really should've done is meditate more, to kind of &quot;clean up&quot; my thoughts. Instead I opted for movies to get lost in or gaming to get into that flow state, both of which were more like really satisfying <em>breaks</em> from the mountain of thoughts looming over me than actual solutions to doing something with the thoughts. But in the moments where my to-do list was empty, my will and discipline were so exhausted that I could not help myself.</p>
+      <p>I become more jittery, more ADHD-like. I instantly thought of my daily tasks the second I woke up, causing me to forget dreams. It became a new reflex to do everything right away.</p>
+      <p>And to the sound of gunfire, the CERN recommendation letter materialized into an actual future: I would be going to work at CERN for the whole of 2022.</p>
+      <p>I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.</p>
+      <p>Overnight most of my commitments were wiped, the to-do list was blank. I realized I had been given back all the time I had took from myself.</p>
+      <h3>2022</h3>
+      <p>After three semesters of finding audiences and doing something for <em>them</em>, I was alone in a new country and decided to swing right into the other extreme and focus all of my time on myself.</p>
+      <p>France's culture gave me a friendly pat on the back and said &quot;la vie n'est pas faite pour travailler.&quot; It hit me how much Estonian culture itself had directed me towards and overly encouraged my maddeningly obsessive every-second-filled schedule. There was no-one to ask me &quot;Why?&quot; or &quot;Could it be unhealthy?&quot;, I was only asked &quot;How do you do that? I wish I could be like you!&quot; Now I felt like the odd one out, an absolute maniac running around bumping into people just chilling, not caring, focusing on the little things.</p>
+      <p>It rubbed off on me oh so good.</p>
+      <p>I started writing again, working out, taking walks, cooking, just chilling in the park. Most crucially, I reconnected with the present entirely.</p>
+      <p>Besides that new cultures gave way to new perspectives on religion, philosophy. Foremost I understood the muslim world a lot better, giving me the chance to reflect on a past relationship and to recontextualize my empathy.</p>
+      <p>Interestingly, the world seems a lot smaller after the year at CERN. Me going there was hyped up to be as a huge thing. It was all so exaggerated that I really believed it too. &quot;That's it! I will do great things! I'll have the chance to eat and have coffee with gigabrain scientists and engineers! I'll live alone!&quot; I felt that I could taste the endgame of life.</p>
+      <p>Now I understand that actually life is more or less the same everywhere. Old me, new location. New Person, Same Old Mistakes.</p>
+      <p>Why I raved about this life in France was not because there were things here that are not available in Estonia, but that the same things were of better quality. You can go to adventure parks or go hiking, but it doesn't hold a candle to climbing in the Alps. Yet, no matter how much better things are, at its core it is the same. I don't know why I expected life elsewhere to be drastically different. On the one hand, it is actually liberating: I'll be fine anywhere. On the other hand, it's a bit disappointing too: is that all there is to it?</p>
+      <blockquote>
+      <p>&quot;You can change your external environment all you want, but you will continue to travel with the one box that will always accompany you.
+      The box known as your mind.&quot;</p>
+      <p>From <a href="https://moretothat.com/travel-is-no-cure-for-the-mind/">Travel Is No Cure for the Mind</a> by Lawrence Yeo</p>
+      </blockquote>
+      <p>Moving is a fantastic way to gain insight into unfamiliar cultures and illuminating ways of life, it is not a cure for discontentment of the mind. I mistook the The Box of Daily Experience to be the same as The Box of My Mind.</p>
+      <p>In the past, I was very strongly motivated by the feeling that I was always preparing for some future. Middle school? In order to get to university. University? To get a job. What am I preparing for now? The present caught up with the future! In short, now it feels like it's time to accept that I've 'arrived', as it were. The only way forward is to go inward, not forward or upward.</p>
+      <p>I have learned and grown, and this will never end, but I have hit a point where I wish to find an outlet to my love, to my expression and endless curiosity. I wish to channel all that is me to the persons closest to me, community, my friends, partner. I no longer want the grind, or a one-way audience, I want a dialogue, dance partners. I wish to both give <em>and</em> take.</p>
+      <h3>2023</h3>
+      <p>Coming back I felt like I was watching the world in slow-motion. Once again I felt like the odd one out, but in the opposite way. Estonia was full of maniacs running around restlessly and I no longer felt the desire to be part of this madness.</p>
+      <p>I've been walking around with a heightened awareness of my self and my surroundings. I try to notice my instincts to weed out the jitter of the remains of my needless ambition. I <strong>do less</strong> across the board, for that I am calmer, I say &quot;no&quot; more and focus on the little things instead. I spend <em>a lot</em> more time writing and reflecting.</p>
+      <p>I've started a war of hugs against productivity in its traditional sense. Eating, hanging out with friends, just sitting and looking around, making love is all productive. I hope that I embody that sentiment and give people the chance to see it that way too.</p>
+      <h2>Analysis</h2>
+      <p>And this is where we get to the numbers part of this quantified self post. The following is the analysis from a month in the aforementioned busiest semester of my life from 2021.</p>
+      <h3>Commute</h3>
+      <p>Commuting took 3.78 hours per week on average. Most of it was driving from home to school/work and back, which was a 14 km one way by car. By car it took me 10-20 minutes one way depending on the traffic conditions, 12 minutes on average.</p>
+      <p>On the other hand: by train and foot it took me 1 hour and 3 minutes one way. So 6-3 times longer! Going by this, using the worse estimation, if I had not used the car, I would've spent 11.34 hours per week on commuting. And this is not accounting for the time waiting and planning the route which also adds some time.</p>
+      <p>It's not that commuting by public transport is worse by default because it takes longer. That time can technically be used better than the time in the car, since it requires no active focus. It is a choice between freedom of time and freedom of utility. With the car all unnecessary time is shaved off, there is no planning or waiting required, hop in and go. On the other hand, public transport allows for taking an actual break or to use the time to catch up with friends, read a book etc, and is better for slowing the mind. Yet the lack of freedom and requirement to operate on the schedule of the train creates slight yet noticeable stress. By driving a car, I save myself time and thought. The train obliges me to fill the time, car gives me freedom to choose.</p>
+      <h3>Work (HPC)</h3>
+      <p>Gotta give credit to the absolutely wonderful boss and collective at the HPC for giving me the chance to organize the work methods and worked time however I wanted. Being the largest of the commitments in time per week, being so flexible was paramount to organizing everything.</p>
+      <p>Quite sad that it's not the norm, but the chill and flexible environment really did allow me to focus on work when it mattered the most. Having to grind hours with nothing to do as is the norm in many places would've been a real wrench in the works for me. Being able to take a nap in the office couch and the fact that it was actually encouraged shows how much respect, empathy and insight the boss has.</p>
+      <h3>Student Council of the School of IT (ITÜK)</h3>
+      <p>3.86 hours of work per week, surprisingly little, but that was at a period where the chaos of the fall semester had died down and there was a lot less to do.</p>
+      <p>With a bit more breathing room in my council schedule, I decided to accept an invitation to brainstorm ideas for the upcoming IT building. To make this process smoother, I arranged visits to the Tartu Delta and EKA buildings, enlisting the help of individuals well-acquainted with these spaces. Their insights revealed a number of ideas, including potential pitfalls, accidental successes, and the preferences of those utilizing these areas.</p>
+      <p>AND close to 34 hours of socializing time was from ITÜK, easily at the top of the list of socializing time spent. Here's where categorizing was a little difficult, because technically being present, networking, and socializing was also a part of the job.</p>
+      <h3>School</h3>
+      <p>That semester I took 42 European Credit Transfer and Accumulation System (ECTS) academic credits. Note that 1 ECTS is supposed to be 26h of work (it never is that much, but whatever), which means 42 ECTS should in principle total around 1092 hours over the course of 16 weeks. Taking that into account it should've resulted in more or less 68.25 hours spent on school per week.</p>
+      <p>I totalled 12.31 hours per week during the time of my tracking period: a miniscule 18% of the expected workload! Not sure if this says more about my abilities to optimize the absolute living daylight out of the programme or the lacking programme itself.</p>
+      <p>Worth noting that during tracking I was doing a a considerable amount of catching up in order to realign with my schedule after the typically hectic and social first half of the semester during which I had put off some schoolwork until later. I would expect the total semester average to be even lower since it was a busier period for school during the tracking, but no actual data to back that up.</p>
+      <h3>Self</h3>
+      <p>The Self category is about the time directed towards and for myself.</p>
+      <h4>Entertainment</h4>
+      <p>Passive media took in total. Of which movies was 15.25 hours, theatre 5 hours, shows 2 hours, anime 1.3 hours, reading only 18 minutes. Just scrolling the web, Reddit, YouTube took almost 69 hours, easily the largest time sink.</p>
+      <p>Read 1 book: &quot;Paradoxes&quot; by Enn Kasak. I did not finish this during the tracking, continued reading it after the tracking period.</p>
+      <p>Saw 2 plays:</p>
+      <ul>
+      <li>Fairy Tale Arch (Elina Masing @ Kanuti Gildi SAAL)</li>
+      <li>The Master and Margarita (@ Vene Teater)</li>
+      </ul>
+      <p>Watched 11 movies:</p>
+      <ul>
+      <li>Burning</li>
+      <li>Man On Wire</li>
+      <li>Bad Trip</li>
+      <li>Sleeping with Other People</li>
+      <li>Tomb Raider</li>
+      <li>Mr and Mrs Smith</li>
+      <li>Dune Part 1</li>
+      <li>The Discovery</li>
+      <li>Climax</li>
+      <li>Revenge</li>
+      <li>Ferris Buellers Day Off</li>
+      </ul>
+      <p>Active media took 22.5 hours in the form of gaming.</p>
+      <p>Played 3 games:</p>
+      <ul>
+      <li>Battlefield 4</li>
+      <li>Deep Rock Galactic</li>
+      <li>Star Wars: Fallen Order</li>
+      </ul>
+      <h4>Operational time</h4>
+      <p>Operational maintenance describes the ongoing effort required to keep living and it bit close to 37 hours from the schedule. This consists of time maintaining physical and mental health. So anything from eating, showering to task management and meditating.</p>
+      <p>During tracking I had 3 meditation sessions:</p>
+      <ul>
+      <li>43 minutes walking the dog</li>
+      <li>5 and 3 minutes focusing on breathing</li>
+      </ul>
+      <p>Operational improvement describes time spent setting up or smoothing the processes of operational maintenance and that took 3.5 hours.</p>
+      <h4>Creative</h4>
+      <p>The only time spent actually creating something for myself was editing photos for 3.75 hours.</p>
+      <p>Sad :(</p>
+      <p>I did not realize at the time, but looking back it would've been so nice for myself to focus more on expression.</p>
+      <h3>Sleep</h3>
+      <p>During the time of tracking the average daily sleep was 8.5 hours. Longest being 10 hours and shortest being 6.3 hours.</p>
+      <p>Sleep was probably the single most important factor in being able to keep all this up for the whole semester:</p>
+      <ul>
+      <li>I could not have afforded getting sick.</li>
+      <li>It would not have been possible for me to context switch and focus on everything as efficiently.</li>
+      <li><em>Everything</em> is worse on a lack of sleep and my moods would have taken an especially hard hit.</li>
+      </ul>
+      <h3>Social</h3>
+      <p>Most of my time socializing was spent with ITÜK, close to 34 hours + 4.5 hours with the ITÜK board. The next largest was with friends, 29 hours to which can also be added time spent with The Bois, 9.5 hours.</p>
+      <p>I would've wanted to hang with The Bois more than 2 times during the tracking month, but such is the pain of trying to fit together the schedules of 5 adult people during uni years. Which actually lead to me spending most of my socializing within ITÜK. Being so active in (as to become the president of the board) ITÜK was my way of trying to find and build my community and a <a href="https://en.wikipedia.org/wiki/Third_place">third place</a> as it were. Funnily that was both the best and worst place to find a tight-knit community. Obviously I did find my place there and had a wonderful time there, but the nature of this particular organization is that the member activity period is very short by nature, 1-2 years. Best in short term, worst in the long term when everyone had moved on, gotten a job, or graduated. Every year there is a little over 100 new interested members, a huge influx of new faces and little by little they drown out the older circles. Older circles which wither or find a new place outside the organization. But what I got from it was a sense of what a community <em>could be</em>. I was surrounded by people who really cared about making a difference and doing things properly. The rest of the board handled their duties with such care and effort that I almost never had to keep my fingers on their pulse, we could all rely on each other and trust that promises would be kept and disasters would be worked through together.</p>
+      <p>With family I spent 16 hours.</p>
+      <p>Digital socializing consisted of 14.5 hours on the phone and 1 hour on e-mail. All in all that is 92.5 hours socializing in person and and 15.5 digitally.</p>
+      <h3>Workout</h3>
+      <p>Managed to make it to gym 5 times over the course of 27 tracked days and had no time to run (probably no desire either considering the weather during fall).</p>
+      <h2>Graphs of Data</h2>
+      <p>Total pie chart:</p>
+      <p><img src="https://jamfox.dev/images/combined_piechart.png" alt="Total pie chart" /></p>
+      <p>All weeks combined:</p>
+      <p><img src="https://jamfox.dev/images/weekly_2021-10-14_to_2021-11-10.png" alt="All weeks combined graph" /></p>
+      <p>Week 1: 2021-10-11 to 2021-10-17</p>
+      <p><img src="https://jamfox.dev/images/week1_2021-10-11_to_2021-10-17.png" alt="Week 1 graph" /></p>
+      <p>Week 2: 2021-10-18 to 2021-10-24</p>
+      <p><img src="https://jamfox.dev/images/week2_2021-10-18_to_2021-10-24.png" alt="Week 2 graph" /></p>
+      <p>Week 3: 2021-10-25 to 2021-10-31</p>
+      <p><img src="https://jamfox.dev/images/week3_2021-10-25_to_2021-10-31.png" alt="Week 3 graph" /></p>
+      <p>Week 4: 2021-11-01 to 2021-11-07</p>
+      <p><img src="https://jamfox.dev/images/week4_2021-11-01_to_2021-11-07.png" alt="Week 4 graph" /></p>
+      <p>Week 5: 2021-11-08 to 2021-11-14</p>
+      <p><img src="https://jamfox.dev/images/week5_2021-11-08_to_2021-11-14.png" alt="Week 5 graph" /></p>
+      <h2>Tables of Data</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>Project</th>
+      <th>Task</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Commute</td>
+      <td>Car</td>
+      <td>12:35:00</td>
+      </tr>
+      <tr>
+      <td>Commute</td>
+      <td>Foot</td>
+      <td>04:38:28</td>
+      </tr>
+      <tr>
+      <td>Commute</td>
+      <td>Train</td>
+      <td>01:03:55</td>
+      </tr>
+      <tr>
+      <td>Commute</td>
+      <td>Bus</td>
+      <td>00:36:41</td>
+      </tr>
+      <tr>
+      <td>HPC</td>
+      <td>Work</td>
+      <td>64:36:50</td>
+      </tr>
+      <tr>
+      <td>HPC</td>
+      <td>Meeting</td>
+      <td>07:49:27</td>
+      </tr>
+      <tr>
+      <td>HPC</td>
+      <td>Other</td>
+      <td>00:03:51</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>Board meeting</td>
+      <td>06:49:08</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>Work</td>
+      <td>04:59:51</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>Email/telegram/chat</td>
+      <td>02:26:43</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>General meeting</td>
+      <td>02:15:00</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>Internal event</td>
+      <td>01:03:50</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>Inventory</td>
+      <td>00:51:25</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>External event</td>
+      <td>00:50:49</td>
+      </tr>
+      <tr>
+      <td>School</td>
+      <td>Lab/Practicum</td>
+      <td>29:33:28</td>
+      </tr>
+      <tr>
+      <td>School</td>
+      <td>Homework</td>
+      <td>13:54:16</td>
+      </tr>
+      <tr>
+      <td>School</td>
+      <td>Other</td>
+      <td>03:36:18</td>
+      </tr>
+      <tr>
+      <td>School</td>
+      <td>Lecture</td>
+      <td>02:10:23</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Just scrolling</td>
+      <td>68:38:57</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Operational maintenance</td>
+      <td>36:41:22</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Gaming</td>
+      <td>22:35:46</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Movies</td>
+      <td>15:15:31</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Theatre</td>
+      <td>04:55:00</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Photo edit</td>
+      <td>03:46:19</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Operational improvement</td>
+      <td>03:22:15</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Shows</td>
+      <td>01:57:37</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Meditating</td>
+      <td>01:21:54</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Anime</td>
+      <td>01:21:39</td>
+      </tr>
+      <tr>
+      <td>Self</td>
+      <td>Reading</td>
+      <td>00:18:21</td>
+      </tr>
+      <tr>
+      <td>Sleep</td>
+      <td>Home</td>
+      <td>219:24:26</td>
+      </tr>
+      <tr>
+      <td>Sleep</td>
+      <td>ITÜK</td>
+      <td>11:35:58</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>ITÜK</td>
+      <td>33:40:37</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>Friends</td>
+      <td>28:43:01</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>Family</td>
+      <td>15:56:11</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>Phone</td>
+      <td>14:35:25</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>The Bois</td>
+      <td>09:30:35</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>ITÜK Board</td>
+      <td>04:20:50</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>E-mail</td>
+      <td>00:57:14</td>
+      </tr>
+      <tr>
+      <td>Social</td>
+      <td>Work</td>
+      <td>00:26:47</td>
+      </tr>
+      <tr>
+      <td>Workout</td>
+      <td>Gym</td>
+      <td>04:40:26</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>Commute</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>Commute</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Home to TalTech</td>
+      <td>5:33:03</td>
+      </tr>
+      <tr>
+      <td>TalTech to home</td>
+      <td>4:55:46</td>
+      </tr>
+      <tr>
+      <td>HPC to V</td>
+      <td>0:43:32</td>
+      </tr>
+      <tr>
+      <td>Mööblimaja to home</td>
+      <td>0:42:35</td>
+      </tr>
+      <tr>
+      <td>Priit to Taltech</td>
+      <td>0:36:41</td>
+      </tr>
+      <tr>
+      <td>V to HPC</td>
+      <td>0:33:11</td>
+      </tr>
+      <tr>
+      <td>Taltech to mööblimaja</td>
+      <td>0:28:48</td>
+      </tr>
+      <tr>
+      <td>Home to mööblimaja</td>
+      <td>0:28:02</td>
+      </tr>
+      <tr>
+      <td>Bussijaam to home</td>
+      <td>0:26:20</td>
+      </tr>
+      <tr>
+      <td>ICT to ICO</td>
+      <td>0:26:12</td>
+      </tr>
+      <tr>
+      <td>ICO to ICT</td>
+      <td>0:24:30</td>
+      </tr>
+      <tr>
+      <td>ICO to gym</td>
+      <td>0:19:34</td>
+      </tr>
+      <tr>
+      <td>Peamaja to ICO</td>
+      <td>0:19:30</td>
+      </tr>
+      <tr>
+      <td>Mööblimaja to Taltech</td>
+      <td>0:17:53</td>
+      </tr>
+      <tr>
+      <td>Mööblimaja to EKA</td>
+      <td>0:17:35</td>
+      </tr>
+      <tr>
+      <td>Gym to ICO</td>
+      <td>0:16:52</td>
+      </tr>
+      <tr>
+      <td>Greenergy to Priit</td>
+      <td>0:16:46</td>
+      </tr>
+      <tr>
+      <td>Home to Greenergy</td>
+      <td>0:16:00</td>
+      </tr>
+      <tr>
+      <td>Parking to HPC to ICT</td>
+      <td>0:15:35</td>
+      </tr>
+      <tr>
+      <td>EKA to mööblimaja</td>
+      <td>0:15:08</td>
+      </tr>
+      <tr>
+      <td>Home to Jürks</td>
+      <td>0:11:45</td>
+      </tr>
+      <tr>
+      <td>ICO to peamaja</td>
+      <td>0:11:34</td>
+      </tr>
+      <tr>
+      <td>Peamaja to ICT</td>
+      <td>0:09:42</td>
+      </tr>
+      <tr>
+      <td>Home to postkontor</td>
+      <td>0:05:28</td>
+      </tr>
+      <tr>
+      <td>Lab to gym</td>
+      <td>0:05:16</td>
+      </tr>
+      <tr>
+      <td>ICT to gym</td>
+      <td>0:05:11</td>
+      </tr>
+      <tr>
+      <td>Home to barber</td>
+      <td>0:04:21</td>
+      </tr>
+      <tr>
+      <td>Barber to home</td>
+      <td>0:03:53</td>
+      </tr>
+      <tr>
+      <td>Parking to ICT</td>
+      <td>0:03:21</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>HPC</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>HPC</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Invenio</td>
+      <td>39:34:20</td>
+      </tr>
+      <tr>
+      <td>Stata</td>
+      <td>13:21:51</td>
+      </tr>
+      <tr>
+      <td>Vault</td>
+      <td>4:09:25</td>
+      </tr>
+      <tr>
+      <td>Weekly</td>
+      <td>3:50:43</td>
+      </tr>
+      <tr>
+      <td>Gitlab</td>
+      <td>3:20:18</td>
+      </tr>
+      <tr>
+      <td>Greenergy</td>
+      <td>2:43:48</td>
+      </tr>
+      <tr>
+      <td>LUMI</td>
+      <td>2:33:07</td>
+      </tr>
+      <tr>
+      <td>Käver</td>
+      <td>0:59:02</td>
+      </tr>
+      <tr>
+      <td>CERN Interview</td>
+      <td>0:56:07</td>
+      </tr>
+      <tr>
+      <td>Standup</td>
+      <td>0:48:24</td>
+      </tr>
+      <tr>
+      <td>1on1</td>
+      <td>0:09:12</td>
+      </tr>
+      <tr>
+      <td>Satisfaction survey</td>
+      <td>0:03:51</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>ITÜK</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>ITÜK</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Board meeting</td>
+      <td>5:30:52</td>
+      </tr>
+      <tr>
+      <td>Building development project</td>
+      <td>3:04:09</td>
+      </tr>
+      <tr>
+      <td>Eek</td>
+      <td>1:18:16</td>
+      </tr>
+      <tr>
+      <td>Elections setup</td>
+      <td>1:04:32</td>
+      </tr>
+      <tr>
+      <td>Koolitus</td>
+      <td>1:03:50</td>
+      </tr>
+      <tr>
+      <td>General Meeting</td>
+      <td>2:15:00</td>
+      </tr>
+      <tr>
+      <td>Ülemiste</td>
+      <td>0:51:25</td>
+      </tr>
+      <tr>
+      <td>New board setup</td>
+      <td>0:51:01</td>
+      </tr>
+      <tr>
+      <td>DDIT help</td>
+      <td>0:50:49</td>
+      </tr>
+      <tr>
+      <td>Elections</td>
+      <td>0:45:33</td>
+      </tr>
+      <tr>
+      <td>Mails, skitrip registration</td>
+      <td>0:26:19</td>
+      </tr>
+      <tr>
+      <td>Announcement, search for a studentrep</td>
+      <td>0:23:04</td>
+      </tr>
+      <tr>
+      <td>Enginaator, studentshadow, studentrep</td>
+      <td>0:20:52</td>
+      </tr>
+      <tr>
+      <td>Regina</td>
+      <td>0:16:07</td>
+      </tr>
+      <tr>
+      <td>Arno Kolk</td>
+      <td>0:11:10</td>
+      </tr>
+      <tr>
+      <td>Chatis</td>
+      <td>0:03:47</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>School</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>School</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Linear repetition</td>
+      <td>7:59:41</td>
+      </tr>
+      <tr>
+      <td>Algo lab</td>
+      <td>7:55:28</td>
+      </tr>
+      <tr>
+      <td>Skeemitehnika research</td>
+      <td>3:57:44</td>
+      </tr>
+      <tr>
+      <td>Cybersec w9</td>
+      <td>2:36:40</td>
+      </tr>
+      <tr>
+      <td>Skeemitehnika presentations</td>
+      <td>2:12:13</td>
+      </tr>
+      <tr>
+      <td>Cybersec w7</td>
+      <td>2:11:55</td>
+      </tr>
+      <tr>
+      <td>Cybersec w12</td>
+      <td>1:53:41</td>
+      </tr>
+      <tr>
+      <td>Linear KT</td>
+      <td>1:48:17</td>
+      </tr>
+      <tr>
+      <td>BES midexam</td>
+      <td>1:46:48</td>
+      </tr>
+      <tr>
+      <td>Cybersec w14</td>
+      <td>1:39:41</td>
+      </tr>
+      <tr>
+      <td>Cybersec w8</td>
+      <td>1:32:59</td>
+      </tr>
+      <tr>
+      <td>Cybersec w10</td>
+      <td>1:32:04</td>
+      </tr>
+      <tr>
+      <td>BES lab 13</td>
+      <td>1:31:07</td>
+      </tr>
+      <tr>
+      <td>BES lab 10</td>
+      <td>1:30:32</td>
+      </tr>
+      <tr>
+      <td>BES lab 11</td>
+      <td>1:22:50</td>
+      </tr>
+      <tr>
+      <td>Cybersec w11</td>
+      <td>1:15:18</td>
+      </tr>
+      <tr>
+      <td>BES lab 12</td>
+      <td>1:12:48</td>
+      </tr>
+      <tr>
+      <td>BES lecture</td>
+      <td>1:11:30</td>
+      </tr>
+      <tr>
+      <td>Cybersec w13</td>
+      <td>1:00:07</td>
+      </tr>
+      <tr>
+      <td>Lineaar lecture</td>
+      <td>0:58:53</td>
+      </tr>
+      <tr>
+      <td>BES repetition</td>
+      <td>0:53:44</td>
+      </tr>
+      <tr>
+      <td>Revisiting legal questions</td>
+      <td>0:43:07</td>
+      </tr>
+      <tr>
+      <td>Skeemitehnika report</td>
+      <td>0:20:00</td>
+      </tr>
+      <tr>
+      <td>BES lab 14</td>
+      <td>0:06:05</td>
+      </tr>
+      <tr>
+      <td>Cybersec midexam</td>
+      <td>0:01:13</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>Self</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>Self</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Scrolling, youtube</td>
+      <td>63:03:50</td>
+      </tr>
+      <tr>
+      <td>Battlefield 4</td>
+      <td>15:28:24</td>
+      </tr>
+      <tr>
+      <td>Morning prep</td>
+      <td>10:56:46</td>
+      </tr>
+      <tr>
+      <td>Eating</td>
+      <td>7:37:58</td>
+      </tr>
+      <tr>
+      <td>Got home prep</td>
+      <td>6:14:01</td>
+      </tr>
+      <tr>
+      <td>Deep Rock Galactic</td>
+      <td>5:56:19</td>
+      </tr>
+      <tr>
+      <td>Before sleep chill</td>
+      <td>5:10:51</td>
+      </tr>
+      <tr>
+      <td>The Master and Margarita</td>
+      <td>3:30:00</td>
+      </tr>
+      <tr>
+      <td>Elections photos</td>
+      <td>2:41:46</td>
+      </tr>
+      <tr>
+      <td>Prep for sleep</td>
+      <td>2:37:30</td>
+      </tr>
+      <tr>
+      <td>Dune</td>
+      <td>2:28:07</td>
+      </tr>
+      <tr>
+      <td>Prep for the day</td>
+      <td>2:09:25</td>
+      </tr>
+      <tr>
+      <td>Over the Garden Wall</td>
+      <td>1:57:37</td>
+      </tr>
+      <tr>
+      <td>Sleeping with Other People</td>
+      <td>1:56:25</td>
+      </tr>
+      <tr>
+      <td>Mr and Mrs Smith</td>
+      <td>1:52:44</td>
+      </tr>
+      <tr>
+      <td>Before sleep prep</td>
+      <td>1:40:48</td>
+      </tr>
+      <tr>
+      <td>Note taking setup</td>
+      <td>1:34:23</td>
+      </tr>
+      <tr>
+      <td>Ferris Buellers Day Off</td>
+      <td>1:30:12</td>
+      </tr>
+      <tr>
+      <td>Fairy Tale Arch</td>
+      <td>1:25:00</td>
+      </tr>
+      <tr>
+      <td>Komi can't communicate</td>
+      <td>1:21:39</td>
+      </tr>
+      <tr>
+      <td>Revenge</td>
+      <td>1:13:35</td>
+      </tr>
+      <tr>
+      <td>Doggowalk</td>
+      <td>1:13:27</td>
+      </tr>
+      <tr>
+      <td>Star Wars: Fallen Order</td>
+      <td>1:11:03</td>
+      </tr>
+      <tr>
+      <td>Man On Wire</td>
+      <td>1:09:23</td>
+      </tr>
+      <tr>
+      <td>Bad Trip</td>
+      <td>1:04:37</td>
+      </tr>
+      <tr>
+      <td>The Discovery</td>
+      <td>1:03:38</td>
+      </tr>
+      <tr>
+      <td>Tomb Raider</td>
+      <td>1:01:51</td>
+      </tr>
+      <tr>
+      <td>Climax</td>
+      <td>1:00:37</td>
+      </tr>
+      <tr>
+      <td>Cleaning</td>
+      <td>0:56:25</td>
+      </tr>
+      <tr>
+      <td>Hygiene</td>
+      <td>0:55:52</td>
+      </tr>
+      <tr>
+      <td>Burning</td>
+      <td>0:54:22</td>
+      </tr>
+      <tr>
+      <td>Tires</td>
+      <td>0:53:42</td>
+      </tr>
+      <tr>
+      <td>Time tracking set up</td>
+      <td>0:52:23</td>
+      </tr>
+      <tr>
+      <td>Shower</td>
+      <td>0:48:35</td>
+      </tr>
+      <tr>
+      <td>Shower, sheets, cleaning room</td>
+      <td>0:43:39</td>
+      </tr>
+      <tr>
+      <td>DDIT photos</td>
+      <td>0:36:17</td>
+      </tr>
+      <tr>
+      <td>Barber</td>
+      <td>0:35:42</td>
+      </tr>
+      <tr>
+      <td>Technöö run</td>
+      <td>0:28:16</td>
+      </tr>
+      <tr>
+      <td>Sync setup</td>
+      <td>0:24:55</td>
+      </tr>
+      <tr>
+      <td>Quick break</td>
+      <td>0:24:16</td>
+      </tr>
+      <tr>
+      <td>Paradoxes</td>
+      <td>0:18:21</td>
+      </tr>
+      <tr>
+      <td>ASF setup</td>
+      <td>0:17:34</td>
+      </tr>
+      <tr>
+      <td>Bring wood</td>
+      <td>0:15:13</td>
+      </tr>
+      <tr>
+      <td>Fixing 735xt</td>
+      <td>0:13:00</td>
+      </tr>
+      <tr>
+      <td>Flowers</td>
+      <td>0:11:17</td>
+      </tr>
+      <tr>
+      <td>Meditation</td>
+      <td>0:08:27</td>
+      </tr>
+      <tr>
+      <td>Cleaning phone</td>
+      <td>0:04:29</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>Sleep</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>Sleep</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Sleep</td>
+      <td>231:00:24</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>Social</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>Social</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Answering chats</td>
+      <td>12:33:32</td>
+      </tr>
+      <tr>
+      <td>Stiina</td>
+      <td>11:06:13</td>
+      </tr>
+      <tr>
+      <td>ITÜK</td>
+      <td>9:20:10</td>
+      </tr>
+      <tr>
+      <td>Mehloween</td>
+      <td>8:21:23</td>
+      </tr>
+      <tr>
+      <td>Ingrid kütab pidu</td>
+      <td>8:03:03</td>
+      </tr>
+      <tr>
+      <td>Kärt</td>
+      <td>6:51:41</td>
+      </tr>
+      <tr>
+      <td>Chill ja ümarlaud</td>
+      <td>4:00:42</td>
+      </tr>
+      <tr>
+      <td>Ilja</td>
+      <td>5:42:37</td>
+      </tr>
+      <tr>
+      <td>Papa</td>
+      <td>5:31:10</td>
+      </tr>
+      <tr>
+      <td>With boys</td>
+      <td>5:20:45</td>
+      </tr>
+      <tr>
+      <td>Eating together</td>
+      <td>4:41:11</td>
+      </tr>
+      <tr>
+      <td>Jürka chill</td>
+      <td>4:09:50</td>
+      </tr>
+      <tr>
+      <td>Sügispidu</td>
+      <td>4:08:19</td>
+      </tr>
+      <tr>
+      <td>Pruunlep</td>
+      <td>3:31:03</td>
+      </tr>
+      <tr>
+      <td>With family</td>
+      <td>3:20:41</td>
+      </tr>
+      <tr>
+      <td>Juhatus</td>
+      <td>2:42:15</td>
+      </tr>
+      <tr>
+      <td>Wakeup catchup</td>
+      <td>2:01:53</td>
+      </tr>
+      <tr>
+      <td>EKA</td>
+      <td>1:24:27</td>
+      </tr>
+      <tr>
+      <td>Fogel's kids</td>
+      <td>1:16:47</td>
+      </tr>
+      <tr>
+      <td>DDIT</td>
+      <td>0:47:20</td>
+      </tr>
+      <tr>
+      <td>Pancakes</td>
+      <td>0:38:15</td>
+      </tr>
+      <tr>
+      <td>Jürks</td>
+      <td>0:29:45</td>
+      </tr>
+      <tr>
+      <td>Kert to bus station</td>
+      <td>0:29:30</td>
+      </tr>
+      <tr>
+      <td>Emme</td>
+      <td>0:28:12</td>
+      </tr>
+      <tr>
+      <td>Kolledz</td>
+      <td>0:26:47</td>
+      </tr>
+      <tr>
+      <td>Small talk</td>
+      <td>0:24:34</td>
+      </tr>
+      <tr>
+      <td>CERN</td>
+      <td>0:09:55</td>
+      </tr>
+      <tr>
+      <td>Mama</td>
+      <td>0:05:16</td>
+      </tr>
+      <tr>
+      <td>Just chatting</td>
+      <td>0:03:24</td>
+      </tr>
+      </tbody>
+      </table>
+      <h3>Workout</h3>
+      <table>
+      <thead>
+      <tr>
+      <th>Workout</th>
+      <th>Duration</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Upper body</td>
+      <td>3:32:56</td>
+      </tr>
+      <tr>
+      <td>Lower body</td>
+      <td>0:35:40</td>
+      </tr>
+      <tr>
+      <td>Lowerback and shoulders</td>
+      <td>0:31:50</td>
+      </tr>
+      </tbody>
+      </table>
+      
+    ]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[A Diary Is As Much For Others As It Is For You]]></title>
-    <link href="https://jamfox.dev/a-diary-is-as-much-for-you/"/>
+    <link href="https://jamfox.dev/blog/a-diary-is-as-much-for-you/"/>
     <updated>2023-08-25T00:00:00Z</updated>
-    <id>https://jamfox.dev/a-diary-is-as-much-for-you/</id>
+    <id>https://jamfox.dev/blog/a-diary-is-as-much-for-you/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>A diary, <a href="https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html">sketchbook</a>, Notion/Obsidian, Remarkable or whatever have you. <a href="https://moretothat.com/the-problem-with-note-taking/">A way to remember</a>, reign in the inner dialogue, detangle the messy thought threads. Writing <em>is</em> thinking, how one makes sense of life, how one expounds their world - but above all I realized, <strong>writing is sharing</strong>.</p>
       <p>Language is like a trade between being understandable to others and binding our ways of thinking (like how many words for truth in Russia changes how one thinks about truth as in <a href="https://brain.jamfox.dev/Evaluation-of-Russia-by-finnish-intelligence-colonel">Evaluation of Russia by finnish intelligence colonel</a>, or the understanding of absence and space in Japan and the relativism of &quot;individuals&quot; explored in <a href="https://app.thestorygraph.com/books/96a92731-6759-44bb-b7d0-6924f5df84d3">How the World Thinks</a>). Putting thoughts into words does give thoughts a more manageable <a href="https://letterboxd.com/film/arrival-2016/">&quot;shape&quot;</a> if you will. But in the first place, you kind of have to force it into that shape. <a href="https://knowyourmeme.com/memes/the-square-hole">&quot;And the triangle goes...? Into the square hole!&quot;</a> At the same time it both frees us by the way of expression and restricts us by the way of the language structure. Yet there is no alternative, as the hardcoded desire for socializing will compel us to express ourselves.</p>
@@ -66,9 +1192,9 @@
   </entry>
   <entry>
     <title><![CDATA[Orchestration Fundamentals Explained Simply]]></title>
-    <link href="https://jamfox.dev/orchestration-explained/"/>
+    <link href="https://jamfox.dev/blog/orchestration-explained/"/>
     <updated>2022-12-01T00:00:00Z</updated>
-    <id>https://jamfox.dev/orchestration-explained/</id>
+    <id>https://jamfox.dev/blog/orchestration-explained/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>At some point, when I first started my path down the journey of DevOps and managing IT infrastructure at enterprise level, my team was tasked with deploying a containerized web app for storing documents. Catch being that no-one on the team knew anything about running containerized applications. But no problem!</p>
       <blockquote>
@@ -187,9 +1313,9 @@
   </entry>
   <entry>
     <title><![CDATA[Eesti keele 2019 riigieksami kirjand: Tehnika areneb, kas inimene ka?]]></title>
-    <link href="https://jamfox.dev/tehnika-areneb-kas-inimene-ka/"/>
+    <link href="https://jamfox.dev/blog/tehnika-areneb-kas-inimene-ka/"/>
     <updated>2022-01-25T00:00:00Z</updated>
-    <id>https://jamfox.dev/tehnika-areneb-kas-inimene-ka/</id>
+    <id>https://jamfox.dev/blog/tehnika-areneb-kas-inimene-ka/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>20. sajand tõi inimkonnale peale hüppelise tehnika arengu ka ootusärevuse. See ärevus täitis pead mõtetega sellest, kuhu selline areng viia võiks ning millistesse kõrgustesse võiksid inimeste võimed tõusta. Nüüd on aga tekkinud küsimus, kas see areng on inimeste võimeid tõstnud või hoopis vastupidi.</p>
       <p>Tehnoloogia arengu eesmärgiks on alati olnud mugavus. Kauged eelkäijad avastasid, et kiviga on kookospähkleid mugavam avada kui kätega. Tänapäeval on probleemid täiesti erinevad, kuid eesmärk on jäänud samaks - teha inimeste elu lihtsamaks. Kuid Yuval Noah Harari toob oma teoses &quot;Sapiens&quot; välja tendentsi, mis käib tehnika arenguga kaasas - algselt on uued tehnoloogiad kõigest luksused, kuid ajapikku saavad need vajadusteks. Kunagi olid külmkapid vaid rikastele kättesaadavad, nüüd on need põhimõtteliselt igas kodus ning sõltutakse neist toidu säilitamisel. Seega tehnika teeb elu mugavaks paljude oskuste ja teadmiste arvelt pannes inimesi sõltuma nendest mugavustest.</p>
@@ -212,9 +1338,9 @@
   </entry>
   <entry>
     <title><![CDATA[Globaalse virtuaalmaastiku roll töösuhetes]]></title>
-    <link href="https://jamfox.dev/virtuaalmaastiku-roll-toomaastikul/"/>
+    <link href="https://jamfox.dev/blog/virtuaalmaastiku-roll-toomaastikul/"/>
     <updated>2021-09-12T00:00:00Z</updated>
-    <id>https://jamfox.dev/virtuaalmaastiku-roll-toomaastikul/</id>
+    <id>https://jamfox.dev/blog/virtuaalmaastiku-roll-toomaastikul/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><em>Essee TalTech HOX6061_KJ &quot;Õiguse alused&quot; aine jaoks.</em></p>
       <p>Töösuhted ning võimalused tasu eest tööd teha on digiajastul palju muutunud. Kui varem eelistati traditsioonilist töölepingut, siis enam ei pruugi see ahvatlev olla, eriti näiteks kui töö sisu ei nõua tegelikult kindlas asukohas ja vahemikus töötamist, aga leping nõuab. Rutiinse iseloomuga töökohad on aina vähemahvatlevad ning alternatiivideks on tekkinud näiteks teenuste või asjade müümine interneti kaudu, virtuaalkauplemine ja platvormitöö.</p>
@@ -237,9 +1363,9 @@
   </entry>
   <entry>
     <title><![CDATA[Lõppsõna 2019 lõpuklassi jaoks Spikris]]></title>
-    <link href="https://jamfox.dev/loppsona-2019/"/>
+    <link href="https://jamfox.dev/blog/loppsona-2019/"/>
     <updated>2019-07-15T00:00:00Z</updated>
-    <id>https://jamfox.dev/loppsona-2019/</id>
+    <id>https://jamfox.dev/blog/loppsona-2019/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Kallid Spikri lugejad! Austatud koolivennad ja -õed! Lugupeetud Saue Gümnaasiumi õpilased ja õpetajad!</p>
       <p>Peale tosinat aastat on lõpuks saanud küpseks Saue Gümnaasiumi kõige uhkem, kõige esinduslikum ja vaieldamatult kõige targem lend. Aeg on tulnud saata laia maailma oma tiibu sirutama see abiturientide etalon. Miski ei saa peatada neid imetegusid, mida hakkab korda saatma Saue Gümnaasiumi viimane 12. klassi lõpetanud lend. Lennu number polegi tähtis, meid ei saa ju meenutada nii triviaalse asja järgi, oleme selleks liiga erilised. Meie, kui Saue ‘Matemaatika’ Gümnaasiumi lõpetajad, teame paremini kui keegi teine, kui tähtsad ja suursugused on numbrid, kuid me oleme neist üle. Soovime et meid mäletataks kui Viimane Lend. Nüüd te kindlasti proovite oma peas välja nuputada kuidas sai “sellisest” koolist tulla nii perfektsiooni lähedane lend. Lubagem asuda seda nüüd teile seletama, kuna vastus on tegelikult üpriski lihtsakoeline oma olemuses.</p>
@@ -252,9 +1378,9 @@
   </entry>
   <entry>
     <title><![CDATA[Rise And Fall of the Milk&#39;s Kingdom]]></title>
-    <link href="https://jamfox.dev/milks-kingdom/"/>
+    <link href="https://jamfox.dev/blog/milks-kingdom/"/>
     <updated>2019-05-21T00:00:00Z</updated>
-    <id>https://jamfox.dev/milks-kingdom/</id>
+    <id>https://jamfox.dev/blog/milks-kingdom/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Time and time again I have ran into the problem of not having anyone to discuss the things I enjoy with. Love running and lifting? &quot;Though shit, exercise ain't hip, unless you do it for the girls.&quot; Feel like doing math problems on a Friday night? &quot;What the fuck is wrong with you?&quot; Enjoy analysing films? &quot;Why can't you just enjoy it, turn your brain off.&quot; Well, this was no different with anime - started watching and realised it was another interest that no-one IRL was really into. Like for many, the first stop for anyone wanting to get in on dicussions related to their hobbies was Reddit. No different for me, shuffled to r/anime and found enough reading to do, but couldn't really get into the conversations sadly (that's what I get for not browsing New feed). So my second idea was to find a discord server. Searching r/anime proved to of help:</p>
       <p><img src="https://jamfox.dev/images/firefox_2019-04-18_10-16-11.png" alt="" /></p>
@@ -694,9 +1820,9 @@
   </entry>
   <entry>
     <title><![CDATA[Fish taped to ATM: An analysis]]></title>
-    <link href="https://jamfox.dev/fish-taped-to-atm/"/>
+    <link href="https://jamfox.dev/blog/fish-taped-to-atm/"/>
     <updated>2019-04-01T00:00:00Z</updated>
-    <id>https://jamfox.dev/fish-taped-to-atm/</id>
+    <id>https://jamfox.dev/blog/fish-taped-to-atm/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/firefox_2019-03-28_17-45-25.png" alt="" /></p>
       <blockquote>
@@ -713,9 +1839,9 @@
   </entry>
   <entry>
     <title><![CDATA[Local man loses lottery]]></title>
-    <link href="https://jamfox.dev/local-man-loses-lottery/"/>
+    <link href="https://jamfox.dev/blog/local-man-loses-lottery/"/>
     <updated>2019-03-28T00:00:00Z</updated>
-    <id>https://jamfox.dev/local-man-loses-lottery/</id>
+    <id>https://jamfox.dev/blog/local-man-loses-lottery/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <blockquote>
       <p><em><strong>The local store Saue Kaubakeskus, where Marek bought his tickets from. Author: Peep Mahl</strong></em></p>
@@ -736,9 +1862,9 @@
   </entry>
   <entry>
     <title><![CDATA[Üksildus ja iseseisvus Murakami &quot;Kafka mererannas&quot;]]></title>
-    <link href="https://jamfox.dev/uksildus-ja-iseseisvus/"/>
+    <link href="https://jamfox.dev/blog/uksildus-ja-iseseisvus/"/>
     <updated>2019-03-20T00:00:00Z</updated>
-    <id>https://jamfox.dev/uksildus-ja-iseseisvus/</id>
+    <id>https://jamfox.dev/blog/uksildus-ja-iseseisvus/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Kõige aktuaalsem teema, mida “Kafka mererannas” käsitles, oli üksildus ja sellega toimetulek. Meedia on mõnda aega juba külvanud uuringute ja statistika põhjal hirmu ja segadust inimestesse, rääkides, et tänapäeva noored elavad iivele ohtlikult tagasihoidlikku suguelu ning on üksildasemad ja depressiivsemad kui kunagi varem. Ei saa öelda, et raamatu tegelased oleks olnud läbinisti depressiivsed, kuid üksikud olid nad kindlasti ning nende lahendused sellega toime tulekuks sarnased tänapäevaste lahendustega. Murakami näitab teoses nende lahenduste nõrkusi ja tugevusi.</p>
       <p>Peategelase Kafka vastus üksildusega toimetulekuks oli saada võimalikult iseseisvaks. See tundus talle loogilisena, sest klassikaaslased teda ei mõistnud, ema ja õde olid talle võõrad ning isa tõi talle vaid meelehärmi oma vähese tähelepanuga, mida ta Kafkale jagas. Niisiis tegi Kafka hoolega trenni, et ei peaks füüsilise jõu pärast kelleltki abi paluma; luges raamatuid, et saada vastuseid teda painavatele küsimustele ja lohutust eskapismi kujul; vältis toetumast kellelegi teisele kui endale. Ei saa öelda, et tänapäeva noored üleliia palju sporti teeks ja raamatuid loeks, aga probleemidega toime tulemise osas on neil siiski varuks sarnased vastused – ühel või teisel põhjusel proovitakse kõiki probleeme üksi lahendada ning kui sellega toime ei tulda, varjutakse meelelahutuse ning sotsiaalmeedia taha peitu. Iroonilisel kombel toidab sotsiaalmeedia just seda mõtteviisi, et kõigil läheb hästi ja teistel probleeme pole. See on petlik - lihtsalt keegi ei jaga nii avalikult enda vaimseid tagamaid.</p>
@@ -750,9 +1876,9 @@
   </entry>
   <entry>
     <title><![CDATA[Some miscellaneous creative stuff]]></title>
-    <link href="https://jamfox.dev/miscellaneous-creative-stuff/"/>
+    <link href="https://jamfox.dev/blog/miscellaneous-creative-stuff/"/>
     <updated>2019-03-18T00:00:00Z</updated>
-    <id>https://jamfox.dev/miscellaneous-creative-stuff/</id>
+    <id>https://jamfox.dev/blog/miscellaneous-creative-stuff/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/corruppurequarry.png" alt="" /></p>
       <blockquote>
@@ -773,9 +1899,9 @@
   </entry>
   <entry>
     <title><![CDATA[Photoshop: Gravity Fridge]]></title>
-    <link href="https://jamfox.dev/gravity-fridge/"/>
+    <link href="https://jamfox.dev/blog/gravity-fridge/"/>
     <updated>2019-03-18T00:00:00Z</updated>
-    <id>https://jamfox.dev/gravity-fridge/</id>
+    <id>https://jamfox.dev/blog/gravity-fridge/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/flyingfoxdayoorg.png" alt="" /></p>
       <blockquote>
@@ -798,9 +1924,9 @@
   </entry>
   <entry>
     <title><![CDATA[Digital photography: Payback]]></title>
-    <link href="https://jamfox.dev/digital-photography-payback/"/>
+    <link href="https://jamfox.dev/blog/digital-photography-payback/"/>
     <updated>2019-03-17T00:00:00Z</updated>
-    <id>https://jamfox.dev/digital-photography-payback/</id>
+    <id>https://jamfox.dev/blog/digital-photography-payback/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/0018.jpg" alt="" /></p>
       <blockquote>
@@ -839,9 +1965,9 @@
   </entry>
   <entry>
     <title><![CDATA[Digital photography: NFS16]]></title>
-    <link href="https://jamfox.dev/digital-photography-nfs16/"/>
+    <link href="https://jamfox.dev/blog/digital-photography-nfs16/"/>
     <updated>2019-03-17T00:00:00Z</updated>
-    <id>https://jamfox.dev/digital-photography-nfs16/</id>
+    <id>https://jamfox.dev/blog/digital-photography-nfs16/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/0001.jpg" alt="" /></p>
       <blockquote>
@@ -900,9 +2026,9 @@
   </entry>
   <entry>
     <title><![CDATA[Digital photograhy: How the shit gets made]]></title>
-    <link href="https://jamfox.dev/digital-photograhy-how-to/"/>
+    <link href="https://jamfox.dev/blog/digital-photograhy-how-to/"/>
     <updated>2019-03-17T00:00:00Z</updated>
-    <id>https://jamfox.dev/digital-photograhy-how-to/</id>
+    <id>https://jamfox.dev/blog/digital-photograhy-how-to/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>I was once asked how digital photography works and how the workflow looks like. So I made this quick and really dirty guide for them.</p>
       <p><img src="https://jamfox.dev/images/stage1.png" alt="" /></p>
@@ -915,9 +2041,9 @@
   </entry>
   <entry>
     <title><![CDATA[Photography: A gallery for someone?]]></title>
-    <link href="https://jamfox.dev/a-gallery-for-someone/"/>
+    <link href="https://jamfox.dev/blog/a-gallery-for-someone/"/>
     <updated>2019-03-16T00:00:00Z</updated>
-    <id>https://jamfox.dev/a-gallery-for-someone/</id>
+    <id>https://jamfox.dev/blog/a-gallery-for-someone/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/mg_4090.jpg" alt="" /></p>
       <blockquote>
@@ -1048,9 +2174,9 @@
   </entry>
   <entry>
     <title><![CDATA[Photography: A gallery for no-one]]></title>
-    <link href="https://jamfox.dev/a-gallery-for-no-one/"/>
+    <link href="https://jamfox.dev/blog/a-gallery-for-no-one/"/>
     <updated>2019-03-16T00:00:00Z</updated>
-    <id>https://jamfox.dev/a-gallery-for-no-one/</id>
+    <id>https://jamfox.dev/blog/a-gallery-for-no-one/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>A wonderful spring day. Grab dad's 20D. Hop in to the hay. Take shots of grass and trees. For whom?</p>
       <p><img src="https://jamfox.dev/images/mg_0557.jpg" alt="" /></p>
@@ -1118,9 +2244,9 @@
   </entry>
   <entry>
     <title><![CDATA[Photoshop misadventures of a 14-year old]]></title>
-    <link href="https://jamfox.dev/photoshop-misadventures/"/>
+    <link href="https://jamfox.dev/blog/photoshop-misadventures/"/>
     <updated>2019-03-14T00:00:00Z</updated>
-    <id>https://jamfox.dev/photoshop-misadventures/</id>
+    <id>https://jamfox.dev/blog/photoshop-misadventures/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Why? Why not, I guess. May these worthless images be eternalized by the power of the world wide web.</p>
       <p><img src="https://jamfox.dev/images/banana.jpg" alt="" /></p>
@@ -1196,9 +2322,9 @@
   </entry>
   <entry>
     <title><![CDATA[Just Turn Your Brain Off]]></title>
-    <link href="https://jamfox.dev/turn-your-brain-off/"/>
+    <link href="https://jamfox.dev/blog/turn-your-brain-off/"/>
     <updated>2019-02-17T00:00:00Z</updated>
-    <id>https://jamfox.dev/turn-your-brain-off/</id>
+    <id>https://jamfox.dev/blog/turn-your-brain-off/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>So there I was, at the intermission of &quot;The life and the love&quot; - a play, adapted from a book of the same name - exchanging thoughts about it with my brother. We both deemed it to be bad. I explained it to be disrespectful to the audience by slapping them over the face with overblown acting and repeated sentences, as if the audience were of 5-year-olds and needed to be handed the meaning and all exposition on a silver platter. For goodness sake, just look at the title, what do you think it's about? The lack of subtlety, it's unbearable. It's so uninspired and directly states what the show is about, god forbid the audience might misunderstand it! My brother said he didn't quite understand why he didn't like it, but he was bored and said he understood where I was coming from.</p>
       <p>Then we joined mum and pops, who had run into some old friends of theirs. We didn't quite join in their conversation, just stood in the same circle making fun of the play by ourselves. Until we were overheard and asked &quot;So I gather you didn't like it?&quot; So I explained myself. I said I found it trash, to be exact with my word choice, and explained my reasons and then quickly asked for their perspective. Instead I was met with &quot;You might be too young,&quot; so I asked them to explain why that might be, what I might be missing, I was desperate to understand. Instead of getting an answer, we fell into a vicious cycle of me asking for their perspective and them just avoiding the answer and saying a variant of &quot;Oh I didn't understand it either when I was your age,&quot; or &quot;You just don't see it.&quot; I felt like a joke. Finally, after a while, I got my answer. Which was that they enjoyed getting a break from the mundane. Just dressing up, driving a hour to the theatre and enjoying a cup of coffee at the intermission was a pleasure in itself and it didn't matter how on-the-nose the piece was. The piece needn't be complicated or thought-provoking, that wasn't the point. They seemed a tad upset about the conversation, but I thanked them for their perspective and we went on to see the second half of the play.</p>
@@ -1228,9 +2354,9 @@
   </entry>
   <entry>
     <title><![CDATA[January 2019 Quantified]]></title>
-    <link href="https://jamfox.dev/january-2019-quantified/"/>
+    <link href="https://jamfox.dev/blog/january-2019-quantified/"/>
     <updated>2019-02-17T00:00:00Z</updated>
-    <id>https://jamfox.dev/january-2019-quantified/</id>
+    <id>https://jamfox.dev/blog/january-2019-quantified/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>So, at the start of this year I wanted to try something I've been meaning to for a loooong time - I wanted to track <em>everything</em> I was doing. Every book read, movie watched, times gone to the toilet, hours spent on homework - every-everything as a statistic. Two reasons:</p>
       <ol>
@@ -1382,9 +2508,9 @@
   </entry>
   <entry>
     <title><![CDATA[Kolm sõpra ja rotid]]></title>
-    <link href="https://jamfox.dev/kolm-sopra-ja-rotid/"/>
+    <link href="https://jamfox.dev/blog/kolm-sopra-ja-rotid/"/>
     <updated>2019-02-15T00:00:00Z</updated>
-    <id>https://jamfox.dev/kolm-sopra-ja-rotid/</id>
+    <id>https://jamfox.dev/blog/kolm-sopra-ja-rotid/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Elas kord üks eriline mees. Ta nimi oli Obama. Obama tegi eriliseks tema ebaharilikult must nahk. Tema nahk oli must sellepärast, et ta oli Õlist sõltuvuses. Õli oli maa seest puuritud haruldane võlujook, mis paneb maailma liikuma. Seda kasutati masinates, aga mitte keegi ei joonud seda. See tähendab - mitte keegi peale Obama. Keegi peale tema ei teadnud, mida Õli inimesega teha võib ja keegi ei hakanud ise järgi kaa proovima, sest see pidavat tapma. Obama oli ülimalt võimas mees. Nimelt ta valitses poolt maailma. Tema maailma pooles valitses kord ja vabadus. Tema rahvas rääkis ilusat kelt ja nende kaup oli üllatavalt odav.</p>
       <p>Obama parim sõber oli veelgi võimsam mees. Tema nimi oli Putin. Ka Putin oli eriline. Tal oli ilus treenitud keha ja ta oli ülimalt vastupidav. Räägitakse, et kõik 7 maailmaimet on Putini tehtud. Nagu Obama, oli ka Putin Õlist sõltuvuses. Mitte küll selle tarbimisest, vaid selle otsimisest ja kaevandamisest ning müümisest. Putin valitses seda teist maailma poolt. Kuid tema maailma pooles ei olnud korda. Putini inimesed olid julged ja natuke peast põrunud. Tema maailma poolel oli kõik tagurpidi. Karud rääkisid ja kandsid mütse ning mängisid akordionit. Nende keel oli väga arusaamatu ja kui sa just seal sündinud polnud, siis seda polnud võimalik ära õppida.</p>
@@ -1401,9 +2527,9 @@
   </entry>
   <entry>
     <title><![CDATA[Winners drink milk!]]></title>
-    <link href="https://jamfox.dev/winners-drink-milk/"/>
+    <link href="https://jamfox.dev/blog/winners-drink-milk/"/>
     <updated>2019-01-19T00:00:00Z</updated>
-    <id>https://jamfox.dev/winners-drink-milk/</id>
+    <id>https://jamfox.dev/blog/winners-drink-milk/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/howldawnpp.jpg" alt="" /></p>
       <blockquote>
@@ -1602,9 +2728,9 @@
   </entry>
   <entry>
     <title><![CDATA[Üliühiskond / Oversociety]]></title>
-    <link href="https://jamfox.dev/uliuhiskond-oversociety/"/>
+    <link href="https://jamfox.dev/blog/uliuhiskond-oversociety/"/>
     <updated>2019-01-19T00:00:00Z</updated>
-    <id>https://jamfox.dev/uliuhiskond-oversociety/</id>
+    <id>https://jamfox.dev/blog/uliuhiskond-oversociety/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Ühiskond, mille inimesed endale loovad, on korrelatsioonis nende enda väärtushinnangute ja tõekspidamistega. Seega, et üldse jõuda täiusliku ühiskonnani, peavad selle liikmed ise muutuma, täiuslikuks ja küpseks saama. Üldsoovitud täiusliku ühiskonna tunnused nagu rahu, absoluutne tolerantsus ning täielik võrdsus jäävad kättesaadamatuks, kui neisse suhtutakse kui kaugesse potentsiaalsesse tulevikku ning ei rakendata nende omaduste elluviimiseks vajalikke põhitõdesid igapäevaelus.</p>
       <p>Kui kõik suhtuvad oma ligimestesse kui konkurentidesse, kellest peab üle olema, siis kuidas on võimalik saavutada rahu, võrdusus ja tolerantsus? Konkurents mõistena on otseses vastuolus kõigi nende tunnustega - ühe suhteline edu tähendab teise ebaedu. Nii saab võimuvõitlus lapsepõlves oma sõbraga teemal, kellel on ägedam mänguauto tuleviku peaministri võimuvõitluseks teiste riikidega teemal, kellel on ägedam tuumapomm.</p>
@@ -1641,9 +2767,9 @@
   </entry>
   <entry>
     <title><![CDATA[Kemurikusa episode 1]]></title>
-    <link href="https://jamfox.dev/kemurikusa/"/>
+    <link href="https://jamfox.dev/blog/kemurikusa/"/>
     <updated>2019-01-14T00:00:00Z</updated>
-    <id>https://jamfox.dev/kemurikusa/</id>
+    <id>https://jamfox.dev/blog/kemurikusa/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p><img src="https://jamfox.dev/images/Tjhc9yD.jpg" alt="" /></p>
       <p>Tatsuki is back... with a vengeance!</p>
@@ -1665,9 +2791,9 @@
   </entry>
   <entry>
     <title><![CDATA[Jam&#39;s memorywarehouse&#39;s raison d&#39;être]]></title>
-    <link href="https://jamfox.dev/cogsdetre/"/>
+    <link href="https://jamfox.dev/blog/cogsdetre/"/>
     <updated>2019-01-13T00:00:00Z</updated>
-    <id>https://jamfox.dev/cogsdetre/</id>
+    <id>https://jamfox.dev/blog/cogsdetre/</id>
     <content xml:lang="en" type="html"><![CDATA[
       <p>Here stands a place to dump my thoughts, for inditing forces one to make sense of their thoughts so that others may understand them too.</p>
       <blockquote>
