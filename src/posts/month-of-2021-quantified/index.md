@@ -19,7 +19,7 @@ In terms of major commitments I was juggling:
 
 The whole idea was to answer a very common question I used to get at that time: "just how do you manage all this without a burnout?"
 
-Empirics help, but in essence I also did not know what to answer besides "I just say yes to everything that seems interesting and also - sleep is paramount! ☝️🤓" (I mean yes, sleep is still paramount, even if you're not doing a stupid grindset like I was). So I will just copy paste from the 2019 post: you can't learn from what you can't observe. Not that you would need to observe every second to be able to grow as a person, but in the long run it definitely did not hurt to have this data.
+Empirics help, but in essence I also did not know what to answer besides "I just say yes to everything that seems interesting and also - sleep is paramount! ☝️🤓" I mean yes, sleep is still paramount, even if you're not doing a stupid grindset like I was, in fact the amount of sleep one gets is in direct correlation with how much a they can do. But I will just copy-paste from the 2019 post: you can't learn from what you can't observe. Not that you would need to observe every second to be able to grow as a person, but in the long run it definitely did not hurt to have this data.
 
 So did it hurt in the short term? Weeeell... read on! In the last one I focused on raw numbers a lot since there was no real context to that time, my life was and had been quite the same for years, same school, same friends, same old. I focused a lot on my operational lifestyle. Played around with diets and fasting which led me to not get hangry and finding out I can actually focus *better* when hungry, it turns out my body is fine with starving as it can "just eat later". I experimented with sleep schedules (including some lighter variants of polyphasic sleep), found out my sleep harmony was going to sleep around 1-2am and waking up at 9-10am. I tried studying methods, different ways and times of working out, meditating and all sorts of things: all in all my routines were pretty much set in stone and that gave me time to explore and identify the systems and living mechanisms that resonated most with my mind and body.
 
@@ -29,7 +29,7 @@ So with the following covers the surrounding years to give insight into how I en
 
 ### 2019 july - 2020 may
 
-I had just found a new peace with myself after finally nurturing deep friendships and getting over the worst my avoidant attachment behavior and thought patterns. I thought I had more or less figured out who I was and what was the source of my confidence, not to mention all the newfound understanding of my mind and body. I was ready to open up myself to the world, express myself, stop consuming and start creating more.
+I had just found a new peace with myself after finally nurturing deep friendships and getting over the worst my avoidant attachment behavior and thought patterns. I thought I had more or less figured out who I was and what was the source of my confidence, not to mention all the newfound understanding of my mind and body. I was ready to open up myself to the world, express myself, stop consuming and start creating more. I felt like I could be driving force!
 
 The night before stepping on the bus that would take me to hell and back we shaved our heads with those that also had their own military service buses to catch (but their buses went to what seemed fun camps). It was only after all the fun photoshoots of ridiculous hairstyles before fully shaving that I realized how much of my outward expression I had lost. I looked at the bundle of hair in the bin while listening to the quiet brushing against my teeth after the loud shenanigans we had had minutes before. I glanced up and I can tell you that it wasn't just the depressant effects of the alcohol still in my blood that made my stomach drop. It just wasn't me anymore, I looked so cold without my hair, so unnatural, a little more aggressive.
 
@@ -43,16 +43,17 @@ When you are so off the deep end that you can't not try to propose a better way 
 
 I tried my best to fill every single free second writing to myself, family or friends. But I realized my self was not enough, I needed a feedback to confirm I was not crazy, I needed signs that there were still with working brains and kind people somewhere where I wasn't, that I had somewhere to return to, and there was maybe some hope for me too.
 
-Those deep friendships I mentioned? Turns out that even if you have a lot to relate to with someone does not mean that they will be able to empathise with something that they can not relate to. Or that they will care to empathise? I got almost no support from most of the people I wrote to. After a while I stopped writing and calling almost altogether, no point sending messages into the void. It was the most effective filter that showed me who really cared despite them not truly understanding the situation I was in. My mother and my best friend. Both of them female, they had no duty nor desire to join the military service, yet they were there for me. Not like many ladies in my life at the time they did not tell me to man up, to not make a big deal of something that was my duty as a man. They held me on my feet with their kindness, even when I lashed out at them from the crushing weights of my frustrations. They reminded not to lose myself. They reminded that my self could flourish once again if I held on, just as my hair would grow back.
+Those deep friendships I mentioned? Turns out that even if you have a lot to relate to with someone does not mean that they will be able to empathise with something that they can not relate to. Or that they will care to empathise? I got almost no support from most of the people I wrote to. After a while I stopped writing and calling almost altogether, no point sending messages into the void. As a result I became selfish and less caring. It was the most effective filter that showed me who really cared despite them not truly understanding the situation I was in. My mother and my best friend. Both of them female, they had no duty nor desire to join the military service, yet they were there for me. Not like many ladies in my life at the time they did not tell me to man up, to not make a big deal of something that was my duty as a man. They held me on my feet with their kindness, even when I lashed out at them from the crushing weights of my frustrations. They reminded not to lose myself. They reminded that my self could flourish once again if I held on, just as my hair would grow back.
 
 With mandatory military service came my second downfall of individuality ([after that of puberty](https://jamfox.dev/blog/a-diary-is-as-much-for-you/)) and the taps of my expression were essentially screwed shut. My capabilities, intelligence, all that which I had been praised for years, suddenly all of it was reduced to nothing. All my expression was found as dangerous deviation to the military or annoying whining to most of whom I thought of as my friends. And my self? I just could not trust myself under all that pressure.
 
-During the last 3 months of the military service I lost most of my muscle, I lost weight, I lost all desire to create and express. I became an automata, just consuming media and games, just coasting through whatever orders I was handed. I was so boring and empty it was insane, they had succeeded in making me a shell that was just sane enough to carry out simple orders.
+During the last 3 months of the military service I lost most of my muscle, I lost weight, I lost all desire to create and express. I became an automata, just consuming media and games, just coasting through whatever orders I was handed. I was so boring and empty, it was insane, they had succeeded in making me a shell that was just sane enough to carry out orders.
 
 > We've been livin' in the flames, we've been eatin' up our brains.
+> 
 > Oh, please, don't let these shakes go on
 
-All I lived for in this zombie state was the service end date. And in this future oriented I was losing grasp on the present, I lived for the future. Always thinking of when was the next moment I could go to sleep, thinking of how many days it was until the end. Even during the weekends I was able to go home I couldn't really relax, my mind already started wandering to the misery that would await me in just a couple of days.
+All I lived for in this zombie state was the end date. And in this future oriented I was losing grasp on the present, I lived for the future. Always thinking of when was the next moment I could go to sleep, thinking of how many days it was until the end. Even during the weekends I was able to go home I couldn't really relax, my mind already started wandering to the misery that would await me in just a couple of days.
 
 ### 2020 summer
 
@@ -60,11 +61,13 @@ These shakes did not go on forever. Which led me to the summer of freedom. Which
 
 When I wasn't doing a round of [Bakamitai karaoke](https://www.youtube.com/watch?v=SBKXk2VaOVA&pp=ygURa2lyeXUgc2hvd2VyIG1lbWU%3D) or doing [borderline insane heat actions](https://www.youtube.com/watch?v=joBlWV-SkUM) as Kiryu I noticed I had become more selfish, less kind, a lot less expressive as myself.
 
-I had no desire to socialize, talk to people, to go out of the house. I felt an "order" in everything people asked of me, reminding me of worse days, leading me having to exert extra will to not become annoyed when people asked small things of me.
+I had become painfully aware of my insignificance and the true extent of the universes apathy. I had been told I was a genius, that I would do great things, that I would be useful. I felt like it was all a lie, that I had no place. I would be molded into a predestined shape that someone else had formed. Either I would fit through it or perish.
+
+I had no desire to socialize, talk to people, to go out of the house. I felt an "order" in everything people asked of me, reminding me of worse days, leading me having to exert extra will to not become annoyed when people asked small things of me. I was denying every sign of destiny, grasping for autonomy at every possible chance, trying to prove that I had at the very least *some* power over myself.
 
 I still did go out of the house. There were a couple of bigger birthdays, a longer hike with The Bois, and my friends still invited me to places occasionally even when I did not take initiative. The few times I did go out, I really felt how much worse my ability to form cohesive sentences was - not to mention stories or longer explanations. My ability to care, empathise, to notice what others were feeling had declined. 
 
-I also felt stuck. In myself. Firstly, I had lost the "why" to expressing myself, then over time it seems I also lost a notable part of the "how". Secondly, I felt like no-one cared to ask or listen. I hated it so much, I had to find an audience, I had to rediscover the "why". But I was so exhausted that I just retreated back to playing videogames instead of working on it.
+I felt stuck in myself. Firstly, I had lost the "why" to expressing myself, then over time it seems I also lost a notable part of the "how". Secondly, I felt like no-one cared to ask or listen. I hated it so much, I had to find an audience, I had to rediscover the "why". But I was so wounded and exhausted that I just retreated back to playing videogames instead of working on it.
 
 ### Rest of 2020 - 2021
 
@@ -90,35 +93,37 @@ It recontextualized my zombie state into something new - it was as if I was a ru
 
 Each semester I took more and more academic credits while maintaining a high enough average grade to warrant 2 stipends for 3 semesters straight. My shoulders could carry more! I accidentally fell into the best possible internship I could have wished for, even though I had no plan of working during uni years. I was elected as [the president of the IT Student Council](/images/ITUK_Esimees_mottkiri_Turvas.pdf). I was developing personally, socially, academically, professionally and my life was full of things to say "yes!!!" to. 
 
-As a sidenote my programme lead put a really nice looking Chekhov's gun on the wall of my future in the shape of a recommendation letter to CERN.
+Sidenote: my programme supervisor put a really nice looking Chekhov's gun on the wall of my future in the shape of a recommendation letter to CERN.
 
 And this was the time I decided to start tracking my time again. Just to capture this speed, unstoppable joy in time where things we so so *so* unbelievably good.
 
 Yet not all was rose colored. My patience, while juggling all these responsibilities and commitments, for example. I felt myself getting irritated when people weren't clear, efficient, getting straight to the point. Anytime I felt someone was wasting my time, I would fly off my handle and walk away if it was possible.
 
-Emptying out my to-do list became the leading force. Once again, in an entirely new way, I was losing the ability to focus on the present. I could not be truly present while there was something on the to-do list and it was constantly being filled with new things. What I really should've done is meditate more, to kind of "clean up" my thoughts. Instead I opted for movies to get lost in or gaming to get into that flow state, both of which were more like really satisfying *breaks* from the mountain of thoughts looming over me than actual solutions to doing something with the thoughts. But in the moments where my to-do list was empty, my will and discipline were so exhausted that I could not help myself.
+Emptying out my to-do list became the leading force. Once again, in an entirely new way, I was losing the ability to focus on the present. I could not be truly present while there was something on the to-do list and it was constantly being filled with new things. What I really should've done is meditate more, to kind of "clean up" my thoughts. Instead I opted for movies to get lost in or gaming to get into that flow state, both of which were more like really satisfying *breaks* from the mountain of thoughts looming over me than actual solutions to doing something with the thoughts. But in the moments where my to-do list was empty, my will and discipline were so exhausted that I could not help myself. 
 
 I become more jittery, more ADHD-like. I instantly thought of my daily tasks the second I woke up, causing me to forget dreams. It became a new reflex to do everything right away.
+
+I had lost myself in the other direction in an effort to prove that I had power, influence, autonomy to forge my own destiny, that I could smith my own molds.
 
 And to the sound of gunfire, the CERN recommendation letter materialized into an actual future: I would be going to work at CERN for the whole of 2022.
 
 I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.
 
-Overnight most of my commitments were wiped, the to-do list was blank. I realized I had been given back all the time I had took from myself.
+Overnight most of my commitments were wiped, the to-do list was blank. I had been given back all the time I had took from myself.
 
 ### 2022
 
-After three semesters of finding audiences and doing something for *them*, I was alone in a new country and decided to swing right into the other extreme and focus all of my time on myself.
+After three semesters of finding audiences and doing something for *them* to prove *I* had autonomy over myself, I was alone in a new country and decided to swing right into the other extreme and focus all of my time on myself.
 
-France's culture gave me a friendly pat on the back and said "la vie n'est pas faite pour travailler." It hit me how much Estonian culture itself had directed me towards and overly encouraged my maddeningly obsessive every-second-filled schedule. There was no-one to ask me "Why?" or "Could it be unhealthy?", I was only asked "How do you do that? I wish I could be like you!" Now I felt like the odd one out, an absolute maniac running around bumping into people just chilling, not caring, focusing on the little things. 
+France's culture gave me a friendly pat on the back and said "la vie n'est pas faite pour travailler." It hit me how much Estonian culture itself had directed me towards and overly encouraged my maddeningly obsessive every-second-filled schedule. There was no-one to ask me "Why?" or "Could it be unhealthy?", I was only asked "How do you do that? I wish I could be like you!" Now I felt like the odd one out, an absolute maniac running around bumping into people just chilling, focusing on the joys of espresso and [quaso~](https://www.youtube.com/watch?v=cLOfV2m3zV4).
 
 It rubbed off on me oh so good.
 
-I started writing again, working out, taking walks, cooking, just chilling in the park. Most crucially, I reconnected with the present entirely.
+I started writing again, working out, taking walks, cooking, just chilling in the park. Most crucially, I reconnected with the present.
 
 Besides that new cultures gave way to new perspectives on religion, philosophy. Foremost I understood the muslim world a lot better, giving me the chance to reflect on a past relationship and to recontextualize my empathy.
 
-Interestingly, the world seems a lot smaller after the year at CERN. Me going there was hyped up to be as a huge thing. It was all so exaggerated that I really believed it too. "That's it! I will do great things! I'll have the chance to eat and have coffee with gigabrain scientists and engineers! I'll live alone!" I felt that I could taste the endgame of life.
+Interestingly, the world seems a lot smaller after the year at CERN. Me going there was hyped up to be as a huge thing. It was all so exaggerated that I really believed it too. "That's it! I will do great things! I'll have the chance to eat and have coffee with gigabrain scientists and engineers! I'll live alone in a foreign country!" I felt that I could taste the endgame of life.
 
 Now I understand that actually life is more or less the same everywhere. Old me, new location. New Person, Same Old Mistakes.
 
@@ -131,9 +136,9 @@ Why I raved about this life in France was not because there were things here tha
 
 Moving is a fantastic way to gain insight into unfamiliar cultures and illuminating ways of life, it is not a cure for discontentment of the mind. I mistook the The Box of Daily Experience to be the same as The Box of My Mind.
 
-In the past, I was very strongly motivated by the feeling that I was always preparing for some future. Middle school? In order to get to university. University? To get a job. What am I preparing for now? The present caught up with the future! In short, now it feels like it's time to accept that I've 'arrived', as it were. The only way forward is to go inward, not forward or upward.
+In the past, I was very strongly motivated by the feeling that I was always preparing for some future. Middle school? In order to get to university. University? To get a job. What am I preparing for now? The present caught up with the future! In short, it felt like I had 'arrived', as it were. The only way forward was to go inward, not forward or upward.
 
-I have learned and grown, and this will never end, but I have hit a point where I wish to find an outlet to my love, to my expression and endless curiosity. I wish to channel all that is me to the persons closest to me, community, my friends, partner. I no longer want the grind, or a one-way audience, I want a dialogue, dance partners. I wish to both give *and* take.
+I have learned and grown, and this will never end, but I hit a point where I wished to find an outlet to my love, to my expression and endless curiosity. I wished to channel all that is me to the persons closest to me, community, my friends, partner. I no longer wanted the grind, or a one-way audience, I wanted a dialogue, dance partners. I wished to both give *and* take.
 
 ### 2023
 

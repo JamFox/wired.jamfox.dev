@@ -83,3 +83,22 @@ img {
     pointer-events: none;
     margin-top: -2px;
 }
+
+blockquote {
+    background: rgb(61, 62, 63);
+    border-left: 10px solid var(--azure-web);
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201D" "\201D";
+    font-style: italic;
+}
+
+blockquote:before {
+    color: var(--azure-web);
+    content: open-quote;
+    font-size: 4em;
+    font-style: italic;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
