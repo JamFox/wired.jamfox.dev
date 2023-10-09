@@ -15,7 +15,6 @@
     font-variation-settings:
         "MONO" 0.1, "CASL" 0.75,
         "slnt" -1, "CRSV" 0.5;
-    font-weight: normal;
     font-style: normal;
 }
 
@@ -31,7 +30,6 @@
     font-variation-settings:
         "MONO" 0.1, "CASL" 0.75,
         "slnt" -15, "CRSV" 0.5;
-    font-weight: normal;
     font-style: italic;
 }
 
