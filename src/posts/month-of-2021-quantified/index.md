@@ -7,8 +7,6 @@ Back in 2019 I did [a month of quantified self](https://jamfox.dev/blog/january-
 
 It was interesting, but I didn't continue after that one month. Then came 2021, a year marked by my busiest semester ever, juggling many commitments with almost no room for a breather. So I did what anyone would logically do and added another commitment: I began meticulously tracking my time, not just in broad one-hour chunks but down to the very seconds, complete with categories and subcategories.
 
-For 27 days, from 2021-10-14 to 2021-11-10, I tracked every single second of my time with a total of 664 hours, 1 minute and 34 seconds of tracked time. I used [Toggl Track](https://toggl.com/track/) to track my time and export the results.
-
 In terms of major commitments I was juggling:
 
 - a half-time job as a sysadmin and DevOps engineer at a High Performance Computing center.
@@ -107,7 +105,7 @@ I had lost myself in the other direction in an effort to prove that I had power,
 
 And to the sound of gunfire, the CERN recommendation letter materialized into an actual future: I would be going to work at CERN for the whole of 2022.
 
-I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.
+I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when I went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.
 
 Overnight most of my commitments were wiped, the to-do list was blank. I had been given back all the time I had took from myself.
 
@@ -151,6 +149,8 @@ I've started a war of hugs against productivity in its traditional sense. Eating
 ## Analysis
 
 And this is where we get to the numbers part of this quantified self post. The following is the analysis from a month in the aforementioned busiest semester of my life from 2021.
+
+For 27 days, from 2021-10-14 to 2021-11-10, I tracked every single second of my time with a total of 664 hours, 1 minute and 34 seconds of tracked time. I used [Toggl Track](https://toggl.com/track/) to track my time and export the results.
 
 ### Commute
 
