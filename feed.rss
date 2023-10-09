@@ -12,7 +12,6 @@
       <description><![CDATA[
         <p>Back in 2019 I did <a href="https://jamfox.dev/blog/january-2019-quantified/">a month of quantified self</a>, every activity was broadly tracked in 1 hour increments in a Google Sheet template I found on Reddit.</p>
         <p>It was interesting, but I didn't continue after that one month. Then came 2021, a year marked by my busiest semester ever, juggling many commitments with almost no room for a breather. So I did what anyone would logically do and added another commitment: I began meticulously tracking my time, not just in broad one-hour chunks but down to the very seconds, complete with categories and subcategories.</p>
-        <p>For 27 days, from 2021-10-14 to 2021-11-10, I tracked every single second of my time with a total of 664 hours, 1 minute and 34 seconds of tracked time. I used <a href="https://toggl.com/track/">Toggl Track</a> to track my time and export the results.</p>
         <p>In terms of major commitments I was juggling:</p>
         <ul>
         <li>a half-time job as a sysadmin and DevOps engineer at a High Performance Computing center.</li>
@@ -68,7 +67,7 @@
         <p>I become more jittery, more ADHD-like. I instantly thought of my daily tasks the second I woke up, causing me to forget dreams. It became a new reflex to do everything right away.</p>
         <p>I had lost myself in the other direction in an effort to prove that I had power, influence, autonomy to forge my own destiny, that I could smith my own molds.</p>
         <p>And to the sound of gunfire, the CERN recommendation letter materialized into an actual future: I would be going to work at CERN for the whole of 2022.</p>
-        <p>I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.</p>
+        <p>I didn't realize it at the time, since I did not give myself the time to write, think or give my thoughts and self-analysis a more concrete shape that I could work with. It was when I went out of my way to finish the semester early and christmas came. With it also the 2-week vacation from work. And the activity of ITÜK was frozen, since everyone was preparing from exams (that I had done ahead of time) and there were close to no student events.</p>
         <p>Overnight most of my commitments were wiped, the to-do list was blank. I had been given back all the time I had took from myself.</p>
         <h3>2022</h3>
         <p>After three semesters of finding audiences and doing something for <em>them</em> to prove <em>I</em> had autonomy over myself, I was alone in a new country and decided to swing right into the other extreme and focus all of my time on myself.</p>
@@ -93,6 +92,7 @@
         <p>I've started a war of hugs against productivity in its traditional sense. Eating, hanging out with friends, just sitting and looking around, making love is all productive. I hope that I embody that sentiment and give people the chance to see it that way too.</p>
         <h2>Analysis</h2>
         <p>And this is where we get to the numbers part of this quantified self post. The following is the analysis from a month in the aforementioned busiest semester of my life from 2021.</p>
+        <p>For 27 days, from 2021-10-14 to 2021-11-10, I tracked every single second of my time with a total of 664 hours, 1 minute and 34 seconds of tracked time. I used <a href="https://toggl.com/track/">Toggl Track</a> to track my time and export the results.</p>
         <h3>Commute</h3>
         <p>Commuting took 3.78 hours per week on average. Most of it was driving from home to school/work and back, which was a 14 km one way by car. By car it took me 10-20 minutes one way depending on the traffic conditions, 12 minutes on average.</p>
         <p>On the other hand: by train and foot it took me 1 hour and 3 minutes one way. So 6-3 times longer! Going by this, using the worse estimation, if I had not used the car, I would've spent 11.34 hours per week on commuting. And this is not accounting for the time waiting and planning the route which also adds some time.</p>
