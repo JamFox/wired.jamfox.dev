@@ -119,13 +119,13 @@ It rubbed off on me oh so good.
 
 I started writing again, working out, taking walks, cooking, just chilling in the park. Most crucially, I reconnected with the present.
 
-Besides that new cultures gave way to new perspectives on religion, philosophy. Foremost I understood the muslim world a lot better, giving me the chance to reflect on a past relationship and to recontextualize my empathy.
+Besides that new cultures gave way to new perspectives on religion, philosophy. Foremost I understood the muslim world a lot better, giving me the chance to reflect on a past relationship and to recontextualize my empathy. Whereas before I would just not say anything, for my ignorance about religion, I could now understand and really empathise where people were coming from when they talked about their beliefs.
 
 Interestingly, the world seems a lot smaller after the year at CERN. Me going there was hyped up to be as a huge thing. It was all so exaggerated that I really believed it too. "That's it! I will do great things! I'll have the chance to eat and have coffee with gigabrain scientists and engineers! I'll live alone in a foreign country!" I felt that I could taste the endgame of life.
 
-Now I understand that actually life is more or less the same everywhere. Old me, new location. New Person, Same Old Mistakes.
+Now I understand that actually life is more or less the same everywhere. Old me, new location. New Person, Same Old Mistakes. Although yes, that external validation that I got from the nature of French culture of working to live not vice versa was significant in its own sense. External will, does, and did influence internal. But I think that in the end it is more about [the people I surrounded myself with](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) more than France as a culture that delivered me to the breakthrough. It is not about finding and then adopting a way of doing things for me, its about crafting and finding my own way and then finding people who relate, agree with it. 
 
-Why I raved about this life in France was not because there were things here that are not available in Estonia, but that the same things were of better quality. You can go to adventure parks or go hiking, but it doesn't hold a candle to climbing in the Alps. Yet, no matter how much better things are, at its core it is the same. I don't know why I expected life elsewhere to be drastically different. On the one hand, it is actually liberating: I'll be fine anywhere. On the other hand, it's a bit disappointing too: is that all there is to it?
+And why I raved about this life in France was not because there were things here that are not available in Estonia, but that the same things were of better quality. You can go to adventure parks or go hiking, but it doesn't hold a candle to climbing in the Alps. Yet, no matter how much better things are, at its core it is the same. I don't know why I expected life elsewhere to be drastically different. On the one hand, it is actually liberating: I'll be fine anywhere. On the other hand, it's a bit disappointing too: is that all there is to it?
 
 > "You can change your external environment all you want, but you will continue to travel with the one box that will always accompany you.
 > The box known as your mind."
