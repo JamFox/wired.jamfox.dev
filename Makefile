@@ -1,5 +1,8 @@
 all: test
 
+install:
+	npm install @11ty/eleventy
+
 build:
 	npx @11ty/eleventy
 
