@@ -2,5 +2,14 @@
 layout: "redirect-layout.html"
 title: "GitHub | JamFox"
 description: "JamFox's GitHub"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - github
+  - git
+  - code
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.github }}

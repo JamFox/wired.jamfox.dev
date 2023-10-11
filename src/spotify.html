@@ -2,5 +2,13 @@
 layout: "redirect-layout.html"
 title: "Spotify | JamFox"
 description: "JamFox's Spotify"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - music
+  - spotify
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.spotify }}

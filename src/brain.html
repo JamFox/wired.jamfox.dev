@@ -2,5 +2,15 @@
 layout: "redirect-layout.html"
 title: "Brain | JamFox"
 description: "JamFox's second brain"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - brain
+  - second-brain
+  - secondbrain
+  - obsidian
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.brain }}

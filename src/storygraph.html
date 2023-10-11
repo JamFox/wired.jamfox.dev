@@ -2,5 +2,20 @@
 layout: "redirect-layout.html"
 title: "StoryGraph | JamFox"
 description: "JamFox's StoryGraph"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - books
+  - book
+  - booklist
+  - stroygraph
+  - thestorygraph
+  - reading
+  - readinglist
+  - read
+  - goodreads
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.storygraph }}

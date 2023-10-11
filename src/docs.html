@@ -2,5 +2,14 @@
 layout: "redirect-layout.html"
 title: "Docs | JamFox"
 description: "JamFox's documentation"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - docs
+  - doc
+  - documentation
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.docs }}

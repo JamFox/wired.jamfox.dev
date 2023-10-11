@@ -2,5 +2,13 @@
 layout: "redirect-layout.html"
 title: "CV | JamFox"
 description: "JamFox's CV"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - cv
+  - resume
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.cv }}

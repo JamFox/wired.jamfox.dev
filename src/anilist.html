@@ -2,5 +2,16 @@
 layout: "redirect-layout.html"
 title: "Anilist | JamFox"
 description: "JamFox's Anilist"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - anime
+  - mal
+  - anilist
+  - animelist
+  - myanimelist
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.anilist }}

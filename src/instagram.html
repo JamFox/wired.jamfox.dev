@@ -2,5 +2,14 @@
 layout: "redirect-layout.html"
 title: "Instagram | JamFox"
 description: "JamFox's Instagram"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - instagram
+  - insta
+  - ig
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.instagram }}

@@ -2,5 +2,15 @@
 layout: "redirect-layout.html"
 title: "Letterboxd | JamFox"
 description: "JamFox's Letterboxd"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - movie
+  - movies
+  - movielist
+  - letterboxd
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.letterboxd }}

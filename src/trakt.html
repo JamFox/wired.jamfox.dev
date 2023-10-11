@@ -2,5 +2,13 @@
 layout: "redirect-layout.html"
 title: "Trakt | JamFox"
 description: "JamFox's Trakt"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - series
+  - serieslist
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.trakt }}

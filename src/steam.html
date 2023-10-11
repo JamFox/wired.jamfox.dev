@@ -2,5 +2,15 @@
 layout: "redirect-layout.html"
 title: "Steam | JamFox"
 description: "JamFox's Steam"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - games
+  - game
+  - gamelist
+  - steam
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.steam }}

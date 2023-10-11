@@ -2,5 +2,15 @@
 layout: "redirect-layout.html"
 title: "LinkedIn | JamFox"
 description: "JamFox's LinkedIn"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - linkedin
+  - linked
+  - professional
+  - work
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.linkedin }}

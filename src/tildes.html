@@ -2,5 +2,12 @@
 layout: "redirect-layout.html"
 title: "Tildes | JamFox"
 description: "JamFox's Tildes"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - tildes
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.tildes }}

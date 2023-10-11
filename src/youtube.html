@@ -2,5 +2,15 @@
 layout: "redirect-layout.html"
 title: "YouTube | JamFox"
 description: "JamFox's YouTube"
+pagination:
+  data: resultingPages
+  alias: resultingPage
+  size: 1
+resultingPages:
+  - youtube
+  - video
+  - yt
+  - videos
+permalink: "{{ resultingPage }}.html"
 ---
 {{ links.youtube }}
