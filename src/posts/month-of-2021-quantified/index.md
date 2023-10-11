@@ -1,5 +1,5 @@
 ---
-title: "A Month of 2021 Quantified"
+title: "Month of 2021 Quantified"
 date: "2023-10-08"
 ---
 
@@ -124,6 +124,10 @@ Besides that new cultures gave way to new perspectives on religion, philosophy. 
 Interestingly, the world seems a lot smaller after the year at CERN. Me going there was hyped up to be as a huge thing. It was all so exaggerated that I really believed it too. "That's it! I will do great things! I'll have the chance to eat and have coffee with gigabrain scientists and engineers! I'll live alone in a foreign country!" I felt that I could taste the endgame of life.
 
 Now I understand that actually life is more or less the same everywhere. Old me, new location. New Person, Same Old Mistakes. Although yes, that external validation that I got from the nature of French culture of working to live not vice versa was significant in its own sense. External will, does, and did influence internal. But I think that in the end it is more about [the people I surrounded myself with](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) more than France as a culture that delivered me to the breakthrough. It is not about finding and then adopting a way of doing things for me, its about crafting and finding my own way and then finding people who relate, agree with it. 
+
+> Our lives are filled with exactly the richness we seek. Travel is just a catalyst to get us up off our sofas and make new friends. Having moved many times, I can assure you that one can do that today without moving.
+>
+> JackMorgan in comments of [Career Advice (2013) hackernews post](https://news.ycombinator.com/item?id=37759873)
 
 And why I raved about this life in France was not because there were things here that are not available in Estonia, but that the same things were of better quality. You can go to adventure parks or go hiking, but it doesn't hold a candle to climbing in the Alps. Yet, no matter how much better things are, at its core it is the same. I don't know why I expected life elsewhere to be drastically different. On the one hand, it is actually liberating: I'll be fine anywhere. On the other hand, it's a bit disappointing too: is that all there is to it?
 
