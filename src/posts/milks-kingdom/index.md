@@ -13,7 +13,7 @@ Time and time again I have ran into the problem of not having anyone to discuss 
 
 ![](/images/firefox_2019-04-18_10-16-11.png)
 
-> _**Milk's old post.**_
+*Milk's old post.*
 
 Usually advertising discords is double-bad-**_ILLEGAL_** on r/anime, but thanks to some miracle this post managed to slip through! And man am I glad, otherwise I would've missed out on one of the most meaningful experiences that the power of the web has ever provided for me.
 
@@ -21,11 +21,11 @@ Usually advertising discords is double-bad-**_ILLEGAL_** on r/anime, but thanks 
 
 ![](/images/firefox_2019-04-18_10-28-41.png)
 
-> _**First ever messages.**_
+*First ever messages.*
 
 ![](/images/firefox_2019-04-18_10-29-39.png)
 
-> _**Legendary Kaito appears!**_
+*Legendary Kaito appears!*
 
 The beginning to my Discord adventures was quite slow because I liked to frequent the place when I had nothing better to do in class - which meant during the day, when most of the members were sleeping or what have you. However the two that saved me from boredom were Psych and Kaito. Especially Kaito, with whom I did my first tandem-anime-watch thingy. We had a whole new channel made for us, we watched Kino's journey, an episode a day, and discussed to our hearts content. Sadly the channel was removed so I have no way to revisit our wonderful convos, but I was one of the greatest times - I finally had someone to share my thoughts with. Later some other people showed interest in group watches too, we had quite a few actually, but the one that stood out was Mawaru Penguindrum, surprisingly. The channel for that was also removed, but it was great while it lasted. Huge shoutout to Cade, he was really active on that one.
 
@@ -35,15 +35,13 @@ So after we'd chatted a while Milk mentioned something that caught my attention:
 
 ![](/images/firefox_2019-04-18_10-31-35.png)
 
-> _**"thats some effort"**_
+*"thats some effort"*
 
 Since I'd had so much fun with the people there I got stuck on the idea that I should update the chart and make a more _refined_ one. Got Kaito to help with the lore since he was already a veteran of the server. He wrote a doc full of inside jokes and happenings + some descriptions of the people and I went to town on Photoshop. My skill with PS were rusty, but I don't regret the hours spent on the chart in the slightest.
 
 ![](/images/chartfin.png)
 
 > _**02/03/2018**_
-
-https://cdn.discordapp.com/attachments/347860040876818434/419243992157519882/CHARTFIN.png
 
 **Some notes:**
 
@@ -79,9 +77,7 @@ Since the relationship chart was a hit and people had been talking about doing s
 
 ![](/images/town44.png)
 
-> _**26/03/2018**_
-
-https://cdn.discordapp.com/attachments/409820799453757460/427898012816113665/Town44.png
+*26/03/2018*
 
 ![](/images/firefox_2019-04-18_10-54-03.png)
 
