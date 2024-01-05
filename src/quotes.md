@@ -63,3 +63,7 @@ However, lowering wages causes inflation because people are buying less, and the
 > A kaleidoscope of noncohesive bullshit and random thoughts throughout the day. Its easier to say nothing that it is to say all that to "how are you?"
 
 > "What a trooper, guy is so fucking vanilla that he looped around and came out the other end as a freak."
+
+> "Life is just one big wipe anyways" - playrust
+
+> "When life gives you dumpster fire, forge your steel in it."
