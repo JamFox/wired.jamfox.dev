@@ -9,17 +9,18 @@ jobs:
   build_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          install_dependencies: true
-      - name: JamPack the site
+          node-version: 20
+      - name: Build
         run: |
-          npm install -g @divriots/jampack --unsafe-perm
+          npm install -g @11ty/eleventy @divriots/jampack --unsafe-perm
+          npm install
+          eleventy
           npx @divriots/jampack public
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: public
           publish_branch: gh-pages
