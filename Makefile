@@ -1,7 +1,7 @@
-all: test
+all: pack test
 
 install:
-	npm install @11ty/eleventy
+	npm install @11ty/eleventy @divriots/jampack
 
 build:
 	npx @11ty/eleventy
@@ -11,3 +11,6 @@ test:
 
 clean:
 	rm -rf public
+
+pack: 
+	npx @divriots/jampack ./public

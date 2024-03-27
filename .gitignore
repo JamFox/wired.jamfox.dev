@@ -5,3 +5,4 @@ public
 *.Identifier
 *.bak
 _site/
+.jampack/

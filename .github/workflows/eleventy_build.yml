@@ -14,6 +14,11 @@ jobs:
         uses: TartanLlama/actions-eleventy@master
         with:
           install_dependencies: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: JamPack the site
+        run: npm install @divriots/jampack; npx @divriots/jampack ./public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
