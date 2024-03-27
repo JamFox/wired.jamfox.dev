@@ -16,7 +16,7 @@ jobs:
           install_dependencies: true
       - name: JamPack the site
         run: |
-          npm install @divriots/jampack
+          npm install -g @divriots/jampack --unsafe-perm
           npx @divriots/jampack public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
