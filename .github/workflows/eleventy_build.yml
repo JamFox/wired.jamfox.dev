@@ -14,9 +14,6 @@ jobs:
         uses: TartanLlama/actions-eleventy@master
         with:
           install_dependencies: true
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 20
       - name: JamPack the site
         run: |
           npm install @divriots/jampack
