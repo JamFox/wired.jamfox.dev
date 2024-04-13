@@ -15,6 +15,6 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0"
   },
   "dependencies": {
-    "@divriots/jampack": "^0.23.3"
+    "@divriots/jampack": "^0.23.4"
   }
 }

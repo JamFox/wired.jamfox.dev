@@ -1,4 +1,4 @@
-all: pack test
+all: build pack test
 
 install:
 	npm install @11ty/eleventy @divriots/jampack
