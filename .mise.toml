@@ -1,0 +1,32 @@
+[tools]
+node = "20"
+
+[tasks.default]
+description = 'Install 11ty deps and serve'
+depends = ['install','build','jampack','test']
+
+[tasks.install]
+description = 'Install 11ty deps'
+run = 'npm install'
+alias = 'i'
+
+[tasks.jampack]
+description = 'Runs jampack to optimize site'
+depends = ['build']
+run = 'npx @divriots/jampack public'
+
+[tasks.build]
+description = 'Build 11ty'
+run = "npx @11ty/eleventy"
+alias = 'b'
+
+[tasks.test]
+description = 'Build and Serve 11ty'
+depends = ['build','jampack']
+run = "npx @11ty/eleventy --serve"
+alias = 't'
+
+[tasks.clean]
+description = 'Clean built site directory'
+run = "rm -rf public"
+alias = 'c'
