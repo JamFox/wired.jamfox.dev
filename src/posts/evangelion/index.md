@@ -107,6 +107,8 @@ Asuka not only does not open her mind to Eva, but others too. For example, Asuka
 > 
 > As long as you are unaware of Being, the reality of other humans will elude you, because you have not found your own. Your mind will like or dislike their form, which is not just their body but includes their mind as well. True relationship becomes possible only when there is an awareness of Being. Coming from Being, you will perceive another person's body and mind as just a screen, as it were, behind which you can feel their true reality, as you feel yours.
 
+![](/images/Vx7kLCO.jpeg)
+
 In introducing Asuka this way, the show hopes that the audience is patient enough to give space and attention to the characters in the same way. Instead of dropping the show with "Asuka is obnoxious" or "Shinji, just get in the robot," the show hopes that we ask why they seem that way and how their shortcomings came to be, and how does that factor into how they try to connect with others. Who are they really at their core?
 
 > Be kind, for everyone you meet is fighting a hard ([decisive](https://www.youtube.com/watch?v=E5JeO-wS2qI)) battle.
