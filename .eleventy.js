@@ -8,6 +8,8 @@ module.exports = function(eleventyConfig) {
     // copy static assets to the output folder
     eleventyConfig.addPassthroughCopy("./src/CNAME");
     eleventyConfig.addPassthroughCopy("./src/*.png");
+    eleventyConfig.addPassthroughCopy("./src/*.jpg");
+    eleventyConfig.addPassthroughCopy("./src/*.jpeg");
     eleventyConfig.addPassthroughCopy("./src/*.ico");
     eleventyConfig.addPassthroughCopy("./src/*.xml");
     eleventyConfig.addPassthroughCopy("./src/*.svg");

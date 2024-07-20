@@ -320,7 +320,7 @@ body {
     /* Background start, comment out following until end of body to get rid of */
     height: 100%;
     width: 100%;
-    background-image: url(/background.png);
+    background-image: url(/background.jpg);
     /*your background image*/
     background-repeat: no-repeat;
     /*we want to have one single image not a repeated one*/
@@ -328,10 +328,12 @@ body {
     /*this sets the image to fullscreen covering the whole screen*/
     background-attachment: fixed;
     /*css hack for ie*/
+    /*
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
     backdrop-filter: blur(8.5px);
     -webkit-backdrop-filter: blur(8.5px);
+    */
 }
 
 @keyframes b {
@@ -340,9 +342,9 @@ body {
     }
 }
 
+/*
 .foreground-noise {
-    /*You may also use fixed depending on your needs.*/
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
     left: 0;
@@ -354,12 +356,13 @@ body {
     animation: b 0.02s infinite alternate;
     mix-blend-mode: multiply;
     pointer-events: none;
-    opacity: 0.02;
+    opacity: 0.001;
 }
 
 .foreground-noise-more {
-    opacity: 0.032;
+    opacity: 0.01;
 }
+*/
 
 /* Typography
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
