@@ -31,12 +31,12 @@ img {
 
 /* Header */
 .header {
-    margin: 2vw 0 2vw 0;
+    margin: 0;
 }
 
 @media (min-width: 1200px) {
     .header {
-        margin: 3rem 0 3rem 0;
+        margin: 0;
     }
 }
 
@@ -84,21 +84,24 @@ img {
     margin-top: -2px;
 }
 
-blockquote {
-    background: rgb(61, 62, 63);
-    border-left: 10px solid var(--azure-web);
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201D" "\201D";
-    font-style: italic;
+.textshadow {
+    font-size: x-small;
+    opacity: 0.6;
+    margin: 0;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1),
+             -2px -2px 10px black;
 }
 
-blockquote:before {
-    color: var(--azure-web);
-    content: open-quote;
-    font-size: 4em;
+blockquote {
     font-style: italic;
-    line-height: 0.1em;
-    margin-right: 0.25em;
-    vertical-align: -0.4em;
+    font-weight: 500;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: linear-gradient(to bottom right, var(--secondary-color), var(--secondary-accent-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }

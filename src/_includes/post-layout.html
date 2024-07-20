@@ -8,10 +8,11 @@
 <h1>{{ title }}</h1>
 {% endblock %}
 
-{% block headerlinks %}<a href="{{ links.blog }}">blog</a> <a href="{{ links.quotes }}">quotes</a> <a href="{{ links.brain }}">brain</a>{% endblock %}
+{% block headerlinks %}<a href="{{ links.blog }}">blog</a> <a href="{{ links.quotes }}">quotes</a> <a
+    href="{{ links.brain }}">brain</a>{% endblock %}
 
 {% block comments %}
 <script src="https://utteranc.es/client.js" repo="JamFox/wired.jamfox.dev" issue-term="pathname" label="💬 comment"
     theme="github-dark" crossorigin="anonymous" async>
-</script>
+    </script>
 {% endblock %}

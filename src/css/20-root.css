@@ -36,7 +36,6 @@
 :root {
     --sides-padding-desktop: 3%;
     --sides-padding-mobile: 5%;
-
     --light-coral: hsla(356, 77%, 71%, 1);
     --azure-web: hsla(167, 22%, 84%, 1);
     --columbia-blue: hsla(191, 24%, 78%, 1);
@@ -45,6 +44,7 @@
 
     --vanilla: hsla(47, 57%, 75%, 1);
     --parchment: hsla(46, 51%, 88%, 1);
+    --dull-parchment: hsla(38, 10%, 79%, 1);
     --eerie-black: hsla(210, 3%, 14%, 1);
     --light-coral: hsla(1, 65%, 73%, 1);
     --salmon-pink: hsla(349, 84%, 74%, 1);
@@ -52,8 +52,7 @@
     --mountbatten-pink: hsla(292, 14%, 59%, 1);
     --rose-quartz: hsla(321, 19%, 67%, 1);
 
-    --base-font-size: 1.8em;
-
+    --base-font-size: 1.6em;
     /* Good pairs: 
     JMH-Cthulhumbus-Arcade & VT323-Regular
     Italipixel & 9801
@@ -101,6 +100,30 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.foreground {
+    position: relative;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    /* For background pic */
+    background: var(--main-color);
+    color: var(--secondary-color);
+}
+
+.foreground-transparent {
+    position: relative;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.foreground-transparent img {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    box-shadow: 0 0 0 0;
+}
+
 .container {
     position: relative;
     width: 100%;
@@ -289,13 +312,54 @@ html {
 body {
     font-size: var(--base-font-size);
     /* currently ems cause chrome bug misinterpreting rems on body element */
-    line-height: 1.6;
+    line-height: 1.5;
     font-weight: 400;
     font-family: var(--main-font);
-    background: var(--main-color);
+    /*background: var(--main-color); */
     color: var(--secondary-color);
+    /* Background start, comment out following until end of body to get rid of */
+    height: 100%;
+    width: 100%;
+    background-image: url(/background.png);
+    /*your background image*/
+    background-repeat: no-repeat;
+    /*we want to have one single image not a repeated one*/
+    background-size: cover;
+    /*this sets the image to fullscreen covering the whole screen*/
+    background-attachment: fixed;
+    /*css hack for ie*/
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
+    backdrop-filter: blur(8.5px);
+    -webkit-backdrop-filter: blur(8.5px);
 }
 
+@keyframes b {
+    100% {
+        background-position: 50% 0, 60% 50%
+    }
+}
+
+.foreground-noise {
+    /*You may also use fixed depending on your needs.*/
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background:
+        repeating-radial-gradient(#000 0 0.0001%, #fff 0 0.0002%) 50% 0/2500px 2500px,
+        repeating-conic-gradient(#000 0 0.0001%, #fff 0 0.0002%) 60% 60%/2500px 2500px;
+    background-blend-mode: difference;
+    animation: b 0.02s infinite alternate;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    opacity: 0.02;
+}
+
+.foreground-noise-more {
+    opacity: 0.032;
+}
 
 /* Typography
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
