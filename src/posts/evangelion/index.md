@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Neon Genesis Evangelion"
+title: "Character-Driven Exploration of Evangelion's Central Themes"
 date: "2024-02-07"
 ---
 
