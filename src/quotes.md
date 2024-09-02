@@ -10,6 +10,11 @@ description: "JamFox's collected quotes"
 
 > "Peace to the fashion police, I wear my heart"
 
+### Movie quotes
+
+> "We are the already dead, Little D"
+> From Furiosa
+
 ### Insightful quotes
 
 > "Life has never rewarded me for hating it."
