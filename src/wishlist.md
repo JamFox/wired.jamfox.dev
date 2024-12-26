@@ -14,8 +14,6 @@ description: "JamFox's wishlist, for gift ideas"
 
 Cocktail kit, with 2 shakers
 
-Meat thermometer
-
 Steam [wishlist](https://store.steampowered.com/wishlist/id/JamFox/)
 
 Nice mortar and pestle
