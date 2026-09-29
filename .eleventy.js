@@ -1,11 +1,9 @@
 import pluginRss from "@11ty/eleventy-plugin-rss";
-import UpgradeHelper from "@11ty/eleventy-upgrade-help";
 import eleventyAsciidoc from "eleventy-plugin-asciidoc";
 
 export default function(eleventyConfig) {
     // plugins
     eleventyConfig.addPlugin(pluginRss);
-    eleventyConfig.addPlugin(UpgradeHelper);
     eleventyConfig.addPlugin(eleventyAsciidoc);
 
     // additional watch targets
