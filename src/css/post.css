@@ -1,8 +1,520 @@
-/* Post specific styles */
-img {
-    height: auto;
-    width: auto;
-    max-height: 600px;
-    border-radius: 0.5rem;
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+/* Post images */
+main .container img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	max-height: 600px;
+	border-radius: 0.5rem;
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+/* AsciiDoc structure and typography */
+main .container .sect1 {
+	padding: 1.5rem 0 0.5rem;
+}
+
+main .container .sect1 > h2 {
+	margin: 0 0 1.5rem;
+	color: var(--tertiary-color);
+	font-size: 2.8rem;
+	line-height: 1.25;
+}
+
+main .container .sect1 h3,
+main .container .sect1 h4,
+main .container .sect1 h5,
+main .container .sect1 h6 {
+	margin: 2rem 0 1rem;
+	color: var(--secondary-color);
+}
+
+main .container #preamble,
+main .container .sectionbody {
+	line-height: 1.65;
+}
+
+main .container .paragraph,
+main .container .ulist,
+main .container .olist,
+main .container .dlist,
+main .container .quoteblock,
+main .container .imageblock {
+	margin-bottom: 1.5rem;
+}
+
+main .container .sect1 ul,
+main .container .sect1 ol {
+	list-style-position: outside;
+	margin: 0 0 1.5rem;
+	padding-left: 2.4rem;
+}
+
+main .container .sect1 ul ul,
+main .container .sect1 ul ol,
+main .container .sect1 ol ul,
+main .container .sect1 ol ol {
+	margin: 0.5rem 0;
+	padding-left: 2rem;
+}
+
+main .container .sect1 li {
+	margin-bottom: 0.5rem;
+}
+
+main .container .sect1 li > p {
+	margin-bottom: 0.5rem;
+}
+
+/* Static AsciiDoc checklist */
+main .container .sect1 .ulist.checklist {
+	margin-bottom: 1.5rem;
+}
+
+main .container .sect1 ul.checklist {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+main .container .sect1 ul.checklist li {
+	margin: 0;
+	padding: 0.7rem 1rem;
+	border-radius: 0.4rem;
+}
+
+main .container .sect1 ul.checklist li + li {
+	margin-top: 0.5rem;
+}
+
+main .container .sect1 ul.checklist li > p {
+	margin: 0;
+	line-height: 1.5;
+}
+
+main .container .checklist-icon {
+	display: inline-flex;
+	width: 2.2rem;
+	height: 2.2rem;
+	margin-right: 0.65rem;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	font-size: 1.5rem;
+	line-height: 1;
+	vertical-align: -0.35rem;
+}
+
+main .container .checklist-icon--done {
+	background: var(--tertiary-color);
+	color: var(--main-color);
+}
+
+main .container .checklist-icon--pending {
+	border: 1px solid var(--tertiary-color);
+	color: var(--tertiary-color);
+}
+
+/* Code and framed content */
+main .container .listingblock,
+main .container .literalblock,
+main .container .exampleblock,
+main .container .sidebarblock {
+	margin: 1.5rem 0;
+	border: 0;
+	border-radius: 0.5rem;
+	background: rgba(0, 0, 0, 0.18);
+}
+
+main .container .listingblock > .title,
+main .container .literalblock > .title,
+main .container .exampleblock > .title,
+main .container .sidebarblock > .content > .title {
+	padding: 0.8rem 1rem 0;
+	color: var(--tertiary-color);
+	font-family: var(--tertiary-font);
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+
+main .container .listingblock .content,
+main .container .literalblock .content,
+main .container .exampleblock > .content,
+main .container .sidebarblock > .content {
+	padding: 1rem;
+}
+
+main .container .listingblock pre,
+main .container .literalblock pre,
+main .container .verseblock pre {
+	overflow-x: auto;
+	margin: 0;
+	background: transparent;
+	color: var(--secondary-color);
+	font-family: var(--tertiary-font);
+	font-size: 1.45rem;
+	line-height: 1.55;
+	white-space: pre;
+}
+
+main .container .listingblock pre > code,
+main .container .literalblock pre > code {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	background: transparent;
+	color: inherit;
+	font: inherit;
+	white-space: inherit;
+}
+
+main .container :not(pre) > code {
+	margin: 0;
+	padding: 0.1em 0.35em;
+	border: 0;
+	border-radius: 0.25rem;
+	background: rgba(0, 0, 0, 0.28);
+	color: var(--tertiary-color);
+	font-family: var(--tertiary-font);
+	white-space: normal;
+}
+
+main .container mark {
+	padding: 0.05em 0.3em;
+	border-radius: 0.2rem;
+	background: var(--secondary-color);
+	color: var(--main-color);
+}
+
+main .container .underline {
+	text-decoration: underline;
+	text-underline-offset: 0.15em;
+}
+
+main .container .line-through {
+	text-decoration: line-through;
+}
+
+/* Material-style keyboard keys and menu paths */
+main .container .keyseq {
+	white-space: nowrap;
+}
+
+main .container .keyseq kbd {
+	display: inline-block;
+	min-width: 1.8em;
+	margin: 0 0.12em;
+	padding: 0.12em 0.45em;
+	border: 1px solid var(--main-accent-color);
+	border-bottom-width: 2px;
+	border-radius: 0.35rem;
+	background: rgba(255, 255, 255, 0.06);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+	color: var(--tertiary-color);
+	font-family: var(--tertiary-font);
+	font-size: 0.85em;
+	line-height: 1.3;
+	text-align: center;
+}
+
+main .container .menuseq {
+	color: var(--tertiary-color);
+	font-family: var(--tertiary-font);
+}
+
+main .container .menuseq .caret {
+	padding: 0 0.35em;
+	color: var(--dull-parchment);
+}
+
+main .container .menuseq .menu,
+main .container .menuseq .menuitem {
+	font-weight: 600;
+}
+
+/* Material-style AsciiDoc admonitions */
+main .container .admonitionblock {
+	--admonition-accent: var(--columbia-blue);
+	margin: 1.5rem 0;
+	overflow: visible;
+	border: 0;
+	border-left: 0.3rem solid var(--admonition-accent);
+	border-radius: 0.45rem;
+	background: rgba(255, 255, 255, 0.04);
+	box-shadow: 0 8px 18px rgba(0, 0, 0, 0.16), 0 3px 5px rgba(0, 0, 0, 0.18);
+}
+
+main .container .admonitionblock.note {
+	--admonition-accent: var(--columbia-blue);
+}
+
+main .container .admonitionblock.tip {
+	--admonition-accent: var(--azure-web);
+}
+
+main .container .admonitionblock.important {
+	--admonition-accent: var(--light-coral);
+}
+
+main .container .admonitionblock.warning,
+main .container .admonitionblock.caution {
+	--admonition-accent: var(--vanilla);
+}
+
+main .container .admonitionblock > table,
+main .container .admonitionblock > table > tbody,
+main .container .admonitionblock > table > tbody > tr {
+	display: block;
+	width: 100%;
+	margin: 0;
+	border: 0;
+	background: transparent;
+}
+
+main .container .admonitionblock td {
+	display: block;
+	width: 100%;
+	padding: 0.9rem 1rem;
+	border: 0;
+	color: var(--secondary-color);
+}
+
+main .container .admonitionblock td.icon {
+	padding-bottom: 0.2rem;
+	color: var(--admonition-accent);
+}
+
+main .container .admonitionblock .icon .title {
+	font-family: var(--tertiary-font);
+	font-size: 1.35rem;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+main .container .admonitionblock td.content {
+	padding-top: 0.2rem;
+}
+
+main .container .admonitionblock td.content > :last-child {
+	margin-bottom: 0;
+}
+
+/* Tables, quotes, images, and footnotes */
+main .container table.tableblock,
+main .container table:not(.tableblock) {
+	width: 100%;
+	margin: 1.5rem 0;
+	border: 0;
+	border-radius: 0.5rem;
+	background: rgba(0, 0, 0, 0.16);
+}
+
+main .container table.tableblock th,
+main .container table.tableblock td,
+main .container table:not(.tableblock) th,
+main .container table:not(.tableblock) td {
+	padding: 0.8rem 1rem;
+	border: 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	color: var(--tertiary-color);
+	text-align: left;
+	vertical-align: top;
+}
+
+main .container table.tableblock tbody tr:last-child > td,
+main .container table:not(.tableblock) tbody tr:last-child > td {
+	border-bottom: 0;
+}
+
+main .container table.tableblock th,
+main .container table:not(.tableblock) th {
+	color: var(--tertiary-color);
+}
+
+main .container .admonitionblock table {
+	width: 100%;
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+	background: transparent;
+	box-shadow: none;
+}
+
+main .container .admonitionblock table td {
+	padding: 0.9rem 1rem;
+	border: 0;
+	color: var(--secondary-color);
+}
+
+main .container .admonitionblock table td.icon {
+	padding-bottom: 0.2rem;
+	color: var(--admonition-accent);
+}
+
+main .container .admonitionblock table td.content {
+	padding-top: 0.2rem;
+}
+
+main .container hr {
+	border-color: rgba(255, 255, 255, 0.08);
+}
+
+main .container .quoteblock {
+	margin: 1.5rem 0;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	background: rgba(0, 0, 0, 0.16);
+}
+
+main .container blockquote {
+	margin: 1.5rem 0;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	background-image:
+		linear-gradient(to bottom right, var(--secondary-color), var(--secondary-accent-color)),
+		linear-gradient(rgba(0, 0, 0, 0.16), rgba(0, 0, 0, 0.16));
+	background-clip: text, border-box;
+	-webkit-background-clip: text, border-box;
+	color: transparent;
+}
+
+main .container .quoteblock blockquote {
+	margin: 0;
+	padding: 0;
+	border-radius: 0;
+	background-image: linear-gradient(to bottom right, var(--secondary-color), var(--secondary-accent-color));
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+main .container .quoteblock blockquote p {
+	background-image: linear-gradient(to bottom right, var(--secondary-color), var(--secondary-accent-color));
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+main .container blockquote > p {
+	margin: 0.75rem 0;
+}
+
+main .container .quoteblock .attribution,
+main .container .imageblock > .title,
+main .container .listingblock > .title {
+	color: var(--tertiary-color);
+	font-family: var(--tertiary-font);
+	font-size: 1.4rem;
+}
+
+main .container .imageblock img {
+	display: inline-block;
+}
+
+main .container .imageblock > .content {
+	text-align: center;
+}
+
+main .container .footnote,
+main .container #footnotes {
+	color: var(--secondary-color);
+	font-size: 1.4rem;
+}
+
+main .container sup.footnote {
+	position: relative;
+	font-size: 0;
+	line-height: 0;
+}
+
+main .container sup.footnote a {
+	color: var(--tertiary-color);
+	font-size: 1.2rem;
+	line-height: 1;
+	text-decoration: none;
+}
+
+main .container sup.footnote a::before {
+	content: "[";
+}
+
+main .container sup.footnote a::after {
+	content: "]";
+}
+
+main .container sup.footnote .footnote-tooltip {
+	display: none;
+	position: absolute;
+	bottom: calc(100% + 0.8rem);
+	left: 50%;
+	z-index: 10;
+	width: max-content;
+	max-width: min(30rem, 80vw);
+	padding: 0.8rem 1rem;
+	transform: translateX(-50%);
+	border: 1px solid var(--main-accent-color);
+	border-radius: 0.5rem;
+	background: var(--main-color);
+	box-shadow: 0 8px 18px rgba(0, 0, 0, 0.28);
+	color: var(--secondary-color);
+	font-family: var(--main-font);
+	font-size: 1.35rem;
+	font-weight: 400;
+	line-height: 1.45;
+	text-align: left;
+	white-space: normal;
+}
+
+main .container sup.footnote:hover .footnote-tooltip,
+main .container sup.footnote:focus-within .footnote-tooltip {
+	display: block;
+}
+
+main .container sup.footnote:hover,
+main .container sup.footnote:focus-within {
+	z-index: 1000;
+}
+
+main .container sup.footnote .footnote-tooltip {
+	z-index: 1001;
+}
+
+main .container #footnotes .footnote {
+	color: var(--secondary-color);
+}
+
+main .container #footnotes .footnote-number {
+	color: var(--tertiary-color);
+	text-decoration: none;
+}
+
+main .container #footnotes .footnote-number:hover {
+	color: var(--tertiary-color);
+	font-weight: 400;
+}
+
+main .container #footnotes .footnote-text {
+	color: var(--secondary-color);
+}
+
+main .container #footnotes .footnote-text:hover {
+	color: var(--secondary-color);
+	font-weight: 400;
+	text-decoration: underline;
+}
+
+@media (max-width: 549px) {
+	main .container .sect1 > h2 {
+		font-size: 2.4rem;
+	}
+
+	main .container table.tableblock {
+		font-size: 1.35rem;
+	}
+
+	main .container table.tableblock th,
+	main .container table.tableblock td {
+		padding: 0.65rem 0.55rem;
+	}
 }

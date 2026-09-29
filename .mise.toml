@@ -2,8 +2,8 @@
 node = "20"
 
 [tasks.default]
-description = 'Install 11ty deps and serve'
-depends = ['install','build','jampack','test']
+description = 'Serve'
+depends = ['serve']
 
 [tasks.install]
 description = 'Install 11ty deps'
@@ -20,11 +20,11 @@ description = 'Build 11ty'
 run = "npx @11ty/eleventy"
 alias = 'b'
 
-[tasks.test]
+[tasks.serve]
 description = 'Build and Serve 11ty'
 depends = ['build']
 run = "npx @11ty/eleventy --serve"
-alias = 't'
+alias = 's'
 
 [tasks.clean]
 description = 'Clean built site directory'

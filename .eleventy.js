@@ -1,10 +1,16 @@
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import UpgradeHelper from "@11ty/eleventy-upgrade-help";
+import eleventyAsciidoc from "eleventy-plugin-asciidoc";
 
-module.exports = function(eleventyConfig) {
+export default function(eleventyConfig) {
     // plugins
     eleventyConfig.addPlugin(pluginRss);
+    eleventyConfig.addPlugin(UpgradeHelper);
+    eleventyConfig.addPlugin(eleventyAsciidoc);
+
     // additional watch targets
     eleventyConfig.addWatchTarget("./src/posts");
+
     // copy static assets to the output folder
     eleventyConfig.addPassthroughCopy("./src/CNAME");
     eleventyConfig.addPassthroughCopy("./src/*.png");
@@ -19,13 +25,13 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/fonts");
     eleventyConfig.addPassthroughCopy("./src/static");
     eleventyConfig.addPassthroughCopy({"./src/posts/*/images/*": "images"});
+
     return {
-        // template formats to read
         templateFormats: ["html", "md", "njk"],
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",
         dataTemplateEngine: "njk",
-        // specify input and output directories
+
         dir: {
             input: "src",
             includes: "_includes",

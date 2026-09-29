@@ -14,4 +14,45 @@
 <script src="https://utteranc.es/client.js" repo="JamFox/wired.jamfox.dev" issue-term="pathname" label="💬 comment"
     theme="github-dark" crossorigin="anonymous" async>
     </script>
+<script>
+    document.querySelectorAll("main sup.footnote a[href^='#_footnotedef_']").forEach((reference, index) => {
+        const definition = document.getElementById(reference.hash.slice(1));
+        if (!definition) return;
+
+        const content = definition.cloneNode(true);
+        content.querySelectorAll("a").forEach((link) => link.remove());
+
+        const tooltip = document.createElement("span");
+        tooltip.className = "footnote-tooltip";
+        tooltip.id = `footnote-tooltip-${index + 1}`;
+        tooltip.setAttribute("role", "tooltip");
+        tooltip.textContent = content.textContent.replace(/^\s*(?:\d+\s*)?\.\s*/, "").trim();
+        reference.setAttribute("aria-describedby", tooltip.id);
+        reference.parentElement.append(tooltip);
+    });
+
+    document.querySelectorAll("main #footnotes .footnote").forEach((definition) => {
+        const numberLink = definition.querySelector(":scope > a[href^='#_footnoteref_']");
+        if (!numberLink) return;
+
+        const number = numberLink.textContent.trim();
+        const text = Array.from(definition.childNodes)
+            .filter((node) => node !== numberLink)
+            .map((node) => node.textContent)
+            .join("")
+            .replace(/^\s*\.\s*/, "")
+            .trim();
+        const backLink = numberLink.getAttribute("href");
+
+        numberLink.className = "footnote-number";
+        numberLink.textContent = `${number}.`;
+
+        const textLink = document.createElement("a");
+        textLink.className = "footnote-text";
+        textLink.href = backLink;
+        textLink.textContent = text;
+
+        definition.replaceChildren(numberLink, document.createTextNode(" "), textLink);
+    });
+</script>
 {% endblock %}
